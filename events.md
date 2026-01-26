@@ -1,0 +1,583 @@
+---
+layout: default
+title: Events
+---
+
+# Community Events Analysis
+
+<div class="alert alert-info">
+Members provided feedback on SGC's community events, including Clan Wars, POTW/POTM streams, podcasts, and suggestions for future events.
+</div>
+
+## Event Performance Overview
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <span class="stat-number">Mixed</span>
+    <span class="stat-label">Overall Event Satisfaction</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-number">High</span>
+    <span class="stat-label">Demand for Collaborative Events</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-number">Low</span>
+    <span class="stat-label">Competitive Event Appeal</span>
+  </div>
+</div>
+
+---
+
+## Clan Wars - Post-Mortem Analysis
+
+<div class="card">
+
+### Overall Assessment: **FAILED EVENT**
+
+<div class="alert alert-critical">
+<strong>CRITICAL:</strong> Clan Wars is the most negatively mentioned event in the survey. Multiple members called for it to never return.
+</div>
+
+### Frequency of Negative Feedback
+**Very High** - Appeared in ~20% of open-ended responses
+
+### Primary Issues
+
+#### **1. Mixed Messaging - Competition vs Community Building**
+
+<div class="quote-box">
+Clan Wars seemed like an event that would be something that would have the Clans duking it out in the spirit of competition and then next thing you know we have the event organizer coming in and telling us that it was meant to be a community building event. Not a competition. What a joke.
+</div>
+
+<div class="quote-box">
+Clan Wars is such a bad idea of an event if you want to have the community come together and not be competitive. It's absurdly stupid to think that people wouldn't get competitive about it.
+</div>
+
+<div class="quote-box">
+Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat and makes me think that Wrecked is being a sanctimonious prick about it.
+</div>
+
+**Analysis:** Event was marketed as competition, then organizers got upset when people competed seriously. Fundamental contradiction in event design.
+
+---
+
+#### **2. Burnout and Mandatory Grinding**
+
+<div class="quote-box">
+The most unfun one because it pretty much forces people to keep grinding the game out more than they usually would and that can lead to people being burnt out or in the worst case quitting the clan.
+</div>
+
+<div class="quote-box">
+Clan wars was a joke NEVER should have returned more often then not these events are big L's.
+</div>
+
+**Analysis:** Event structure required excessive time commitment, pushing members beyond healthy engagement levels.
+
+---
+
+#### **3. Created Hostility Between Clans**
+
+<div class="quote-box">
+After this years clan wars it just feels hostile or maybe just a little bit toxic seeing what certain clans did.
+</div>
+
+**Analysis:** Instead of building community, event damaged cross-clan relationships and created lasting resentment.
+
+---
+
+#### **4. Poorly Executed**
+
+<div class="quote-box">
+Clan Wars is such a bad idea of an event if you want to have the community come together and not be competitive.
+</div>
+
+<div class="quote-box">
+Clan wars was a joke NEVER should have returned.
+</div>
+
+**Analysis:** Return of event was poorly received. Members remember previous negative experiences.
+
+---
+
+### Member Suggestions for Future (If Clan Wars Returns)
+
+<div class="quote-box">
+Maybe have it being tied to one activity a week with teams who are already made up so those people in particular can represent the clan... That way you can control who wants to participate.
+</div>
+
+**Recommended Approach:**
+- Opt-in teams rather than clan-wide requirement
+- Limited time commitment (one activity per week)
+- Pre-formed teams so non-participants aren't pressured
+- Clear upfront whether it's competitive or collaborative
+
+### Verdict: **DISCONTINUE OR COMPLETELY REDESIGN**
+
+</div>
+
+---
+
+## POTW/POTM Streams
+
+<div class="card">
+
+### Player of the Week/Month Stream Feedback
+
+**Overall Reception:** Mixed to Positive
+
+### Positive Aspects
+
+- Recognition for community members
+- Regular community gathering point
+- Prize giveaways appreciated
+
+### Concerns Raised
+
+#### **1. Stream Length and Focus**
+
+<div class="quote-box">
+Speed up the results, it shouldn't be greener talking about giving our money away to them for 2 hours and than 5 mins of results. It's less of a POTW OR POTM stream more of a hey donate, hey do this, I need money PLEASE.
+</div>
+
+**Issue:** Stream feels donation-focused rather than community-recognition-focused. Results are rushed, donation requests are lengthy.
+
+**Suggested Fix:**
+- Frontload the POTW/POTM announcements and recognition
+- Reduce donation request time
+- Balance content better
+
+---
+
+#### **2. Relevance in Dying Game**
+
+<div class="quote-box">
+Stop with coping about it, accept reality and put that effort into something that will matter. (re: Destiny-focused content)
+</div>
+
+**Issue:** POTW/POTM is Destiny-focused in a community moving beyond Destiny.
+
+**Suggested Fix:**
+- Expand to multi-gaming achievements
+- Recognize non-Destiny accomplishments
+- Adapt to community's evolving interests
+
+---
+
+#### **3. Timezone Limitations**
+
+- Some members can't attend due to timezone differences
+- EU members particularly affected
+- Rather Fancy Cat's EU streams noted as alternative
+
+**Suggested Fix:**
+- Rotate stream times occasionally
+- Post highlights/VODs with timestamps
+- Consider multiple regional streams
+
+</div>
+
+---
+
+## Podcast Feedback
+
+<div class="card">
+
+### SGC Podcast Reception
+
+**Overall Reception:** Low to Mixed
+
+### Primary Concerns
+
+#### **1. Relevance Question**
+
+<div class="quote-box">
+Stop with coping about it, accept reality and put that effort into something that will matter.
+</div>
+
+<div class="quote-box">
+If was like the Shrouded version of Datto or interactive thing for people, podcasts would make sense.
+</div>
+
+**Issue:** Podcast about dying game feels like denial rather than adaptation. Content doesn't match community needs.
+
+---
+
+#### **2. Lack of Interactive Element**
+
+<div class="quote-box">
+If was like the Shrouded version of Datto or interactive thing for people, podcasts would make sense.
+</div>
+
+**Issue:** Podcast is one-directional. Community wants to participate, not just listen.
+
+---
+
+### Member Suggestion
+
+<div class="quote-box">
+It would be great to combine the POTW streams and the podcast, creating a hybrid experience that includes a dedicated segment for live interaction with viewers.
+</div>
+
+**Recommended Approach:**
+- Merge podcast with POTW stream for efficiency
+- Add live Q&A segments
+- Include community guests
+- Diversify topics beyond Destiny
+
+</div>
+
+---
+
+## Popular Event Types (From Feedback)
+
+<div class="card">
+
+### Events Members Want MORE Of
+
+#### **1. Zero to Hero Events**
+
+<div class="quote-box">
+Raid zero to hero. Would be very fun to game with the homies and face a new challenge I haven't done yet in raids.
+</div>
+
+<div class="quote-box">
+I would like a bit more events like the zero to hero dungeon event that was fun.
+</div>
+
+**Why It Works:**
+- Teaching/learning opportunity
+- Collaborative, not competitive
+- Inclusive of skill levels
+- Achievable goals
+
+**Suggested Expansion:**
+- Raid Zero to Hero (multiple raids)
+- Dungeon Zero to Hero (continue)
+- PvP Zero to Hero (teach Crucible/Trials)
+- Multi-game Zero to Hero (other games)
+
+---
+
+#### **2. Gambit/Private Match Events**
+
+<div class="quote-box">
+GAMBIT! VIIs and sentinels did. Same with apex. Get a private match gambit going.
+</div>
+
+<div class="quote-box">
+More party nights like maybe a fall guys or destiny gambit night would be fun.
+</div>
+
+**Why It Works:**
+- Casual competitive (low stakes)
+- Cross-clan team mixing
+- Fun and lighthearted
+- Easy to organize
+
+---
+
+#### **3. Triumph/Seal Completion Runs**
+
+<div class="quote-box">
+Would be cool to have some flawless/challenge/triumph runs. A lot of people need help completing seals.
+</div>
+
+**Why It Works:**
+- Helps members achieve personal goals
+- Collaborative effort
+- Expert members can teach
+- Sense of accomplishment
+
+---
+
+#### **4. Hide and Seek / Open World Games**
+
+<div class="quote-box">
+Hide and seek an ADMIN have a stream slot and have hud off, post it out or giveaway first one to find yall in the open world gets a small reward.
+</div>
+
+**Why It Works:**
+- Unique and creative
+- Low pressure participation
+- Stream-friendly
+- Community-wide engagement
+
+---
+
+#### **5. Multi-Gaming Party Nights**
+
+<div class="quote-box">
+More party nights like maybe a fall guys or destiny gambit night would be fun.
+</div>
+
+**Why It Works:**
+- Breaks from Destiny
+- Accessible to all skill levels
+- Builds cross-clan friendships
+- Aligns with multi-gaming direction
+
+---
+
+#### **6. Cross-Clan Collaborative Events**
+
+- Multiple clans working together toward shared goal
+- Not clan vs clan (avoid Clan Wars mistakes)
+- Community-wide raids
+- Joint achievement pushes
+
+</div>
+
+---
+
+## Event Suggestions by Category
+
+<div class="card">
+
+### Teaching/Learning Events
+- ✅ Zero to Hero (Raids, Dungeons, PvP)
+- ✅ Triumph/Seal completion runs
+- ✅ Build crafting workshops
+- ✅ New player orientation raids
+
+### Casual/Fun Events
+- ✅ Hide and Seek
+- ✅ Gambit private matches
+- ✅ Party game nights (Fall Guys, Among Us, etc.)
+- ✅ Fashion shows/screenshot contests
+- ✅ Racing/Sparrow events
+
+### Collaborative Events
+- ✅ Community-wide raid days
+- ✅ Cross-clan triumph pushes
+- ✅ Charity streams
+- ✅ Multi-clan dungeon marathons
+
+### Competitive Events (Use Cautiously)
+- ⚠️ Private match tournaments (opt-in only)
+- ⚠️ Speedrun competitions (individual, not clan-based)
+- ⚠️ PvP tournaments (skill-bracketed)
+- ❌ **Clan Wars** (avoid entirely or complete redesign)
+
+### Multi-Gaming Events
+- ✅ Game nights in other titles
+- ✅ New game launch parties
+- ✅ Multi-game tournaments
+- ✅ Cross-game achievement challenges
+
+</div>
+
+---
+
+## What Makes Events Successful?
+
+<div class="card">
+
+### Success Factors
+
+**✅ Collaborative Over Competitive**
+- Members prefer working together to competing
+- Builds community rather than dividing it
+- Lower stress and pressure
+
+**✅ Opt-In Participation**
+- Members choose to participate
+- No clan-wide requirements
+- Prevents burnout
+
+**✅ Accessible to All Skill Levels**
+- Teaching events are popular
+- Experts help newer players
+- Everyone can contribute
+
+**✅ Clear Purpose and Expectations**
+- No mixed messaging
+- Members know what they're signing up for
+- Goals are transparent
+
+**✅ Reasonable Time Commitment**
+- Event doesn't dominate entire week
+- Respects members' time
+- Can participate casually
+
+**✅ Cross-Clan Mixing**
+- Breaks down clan silos
+- Builds broader community connections
+- Reduces elitism
+
+**✅ Fun and Lighthearted**
+- Not everything needs prizes
+- Social aspect is valuable
+- Laughter and friendship matter
+
+</div>
+
+---
+
+## Event Organizer Feedback
+
+<div class="card">
+
+### Specific Concerns About Event Leadership
+
+**Mister Wrecked (Primary Event Organizer):**
+
+Multiple complaints about event organization and handling:
+
+<div class="quote-box">
+Clan Wars seemed like an event that would be something that would have the Clans duking it out in the spirit of competition and then next thing you know we have the event organizer coming in and telling us that it was meant to be a community building event. Not a competition. What a joke.
+</div>
+
+<div class="quote-box">
+Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat and makes me think that Wrecked is being a sanctimonious prick about it.
+</div>
+
+**Pattern:** Event design and messaging problems linked to specific organizer. Consider:
+- Rotating event organizers
+- Community input on event design
+- Multiple people planning events
+- Feedback loops during planning phase
+
+</div>
+
+---
+
+## Event Calendar Suggestions
+
+<div class="card">
+
+### Recommended Event Mix
+
+**Weekly:**
+- POTW Stream (with adjustments noted above)
+- Casual game nights (rotating games)
+- Teaching events (Zero to Hero series)
+
+**Bi-Weekly:**
+- Cross-clan collaborative events
+- Private match fun competitions
+- Multi-gaming events
+
+**Monthly:**
+- POTM Stream
+- Special themed events
+- Community challenges
+- New game launches (as they happen)
+
+**Quarterly:**
+- Major community gatherings
+- Charity events
+- Season celebrations
+
+**NEVER:**
+- Clan Wars (as currently designed)
+- Mandatory participation events
+- Overly competitive clan vs clan events
+
+</div>
+
+---
+
+## Destiny vs Multi-Gaming Events
+
+<div class="card">
+
+### The Balance Challenge
+
+<div class="alert alert-warning">
+<strong>TENSION:</strong> Community wants to move beyond Destiny, but most established events are Destiny-focused.
+</div>
+
+**Current Reality:**
+- POTW/POTM = Destiny achievements
+- Podcast = Destiny discussion
+- Most teaching events = Destiny content
+- Clan Wars = Destiny activity
+
+**Community Desire:**
+- Multi-gaming events
+- Recognition for non-Destiny accomplishments
+- Content relevant to games they're actually playing
+
+**Recommended Shift:**
+- Gradually introduce multi-gaming recognition in POTW/POTM
+- Theme some weeks around other games
+- Create parallel event tracks
+- Don't abandon Destiny entirely, but diversify
+
+<div class="quote-box">
+I like having some of the community games be on other games, but to play those I have to also play all the time on destiny to stay in the clan. Just makes it hard to enjoy other games.
+</div>
+
+**This quote captures the tension:** Members want to participate in SGC events for other games without jeopardizing their clan membership.
+
+</div>
+
+---
+
+## Key Findings Summary
+
+<div class="alert alert-info">
+
+### Critical Insights
+
+1. **Clan Wars must be discontinued or completely redesigned**
+   - Most negatively received event
+   - Created lasting damage to community
+   - Mixed messaging and poor execution
+
+2. **Members prefer collaborative over competitive events**
+   - Zero to Hero events praised
+   - Community wants to help each other
+   - Competition creates division
+
+3. **POTW/POTM streams need rebalancing**
+   - Too donation-focused
+   - Rush through actual recognition
+   - Should expand beyond Destiny
+
+4. **Podcast lacks relevance and interactivity**
+   - Destiny focus feels outdated
+   - One-directional format
+   - Consider merging with other content
+
+5. **Multi-gaming events urgently needed**
+   - Align events with community evolution
+   - Recognize non-Destiny achievements
+   - Don't force Destiny participation for other games
+
+6. **Event organization needs reform**
+   - Current organizer has credibility issues
+   - Community input in planning phase
+   - Better communication and transparency
+
+</div>
+
+---
+
+## Recommendations
+
+<div class="card">
+
+### Event Strategy Reform
+
+**Tier 1 - IMMEDIATE:**
+1. Cancel Clan Wars permanently (or postpone indefinitely pending redesign)
+2. Add multi-gaming nights to regular schedule
+3. Rebalance POTW stream format (less donation talk, more recognition)
+4. Gather community input before planning major events
+
+**Tier 2 - HIGH PRIORITY:**
+5. Expand Zero to Hero series (raids, PvP, other games)
+6. Create cross-clan collaborative event calendar
+7. Introduce multi-game achievement recognition
+8. Rotate event organizers/planners
+
+**Tier 3 - MODERATE PRIORITY:**
+9. Redesign podcast or discontinue
+10. Add EU-friendly event times
+11. Create event feedback loops
+12. Develop casual party game nights
+
+</div>
+
+<a href="future-direction" class="btn">Next: Future Direction →</a>
