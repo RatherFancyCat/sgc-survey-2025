@@ -1,6 +1,6 @@
 # Survey Demographics
 
-<div class="alert alert-info">
+<div class="alert alert-info" markdown="1">
 Understanding who participated in the survey helps contextualize the feedback and insights gathered.
 </div>
 
@@ -48,7 +48,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ### How long have members been part of SGC?
 
-<div class="chart-container">
+<div class="chart-container" markdown="1">
 
 | Time Period | Approximate % | Description |
 |------------|---------------|-------------|
@@ -67,7 +67,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 - Strong representation across all tenure levels provides diverse perspectives
 - Long-term members are most likely to have observed leadership patterns and cultural shifts
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I've been here since Shrouded Perfected and when fatalis was the admin." - 3+ year veteran
 </div>
 
@@ -119,7 +119,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ### Have members moved between clans?
 
-<div class="stat-grid">
+<div class="stat-grid" >
   <div class="stat-card">
     <span class="stat-number">~45%</span>
     <span class="stat-label">Have Changed Clans</span>
@@ -135,48 +135,48 @@ Respondents were given the choice to remain anonymous or state their name. The m
 ### Reasons for Clan Changes
 
 **1. Clan Closures/Disbandment** (Most Common)
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "Celestials to then being absorbed into Wolves" - Member describing clan closure
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I was in Reapers but they disbanded due to lack of active players" - Former Reapers member
 </div>
 
 **2. Inactivity Issues**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "Sol felt very inactive" - Member explaining move from Sol
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "Mayhem" (moved due to inactivity) - Brief explanation
 </div>
 
 **3. Seeking Better Fit**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I left Wolves for Apex, where I remain but as just a member, no staff roles" - Former Wolves officer
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "Was alienated by clanmates and after the switch even more so by them" - Member describing negative experience
 </div>
 
 **4. Helping Other Clans**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "All moves due to either clans closing or trying to help rebuild/sustain them" - Staff member
 </div>
 
 **5. Conflict/Drama**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I left because of friends, but left because the rules suck" - Bastion departure
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "Had someone be extremely hostile towards me and other clans mates" - Wolves departure
 </div>
 
 **6. Activity Requirements**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "Left Wolves Joined apex than took a break from d2 and joined wolves again" - Cycle due to activity pressure
 </div>
 
@@ -247,7 +247,7 @@ While not explicitly asked, some patterns emerged:
 - Console-specific clans mentioned in historical context
 - "Console split" referenced by long-term members
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I only really remember Saddistic from pre console split" - Veteran member
 </div>
 
@@ -293,7 +293,7 @@ This dataset provides a **robust and diverse perspective** on SGC's community he
 
 ## Demographic Insights
 
-<div class="alert alert-info">
+<div class="alert alert-info" markdown="1">
 
 ### Key Takeaways
 
