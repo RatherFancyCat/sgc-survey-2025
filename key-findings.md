@@ -13,7 +13,7 @@ This page summarizes the most critical insights from the SGC Community Survey 20
 
 The SGC community shows **strong in-clan bonds** with most members rating their clan experience highly (4-5/5). However, cross-clan interactions reveal more challenges, with elitism and division being recurring concerns.
 
-<div class="quote-box" Quote from a Member:>
+<div class="quote-box">
 "I just wanted to say that this is the first clan/community that I have truly enjoyed being part of, regardless of the ups and downs that have taken place over my years with this community."
 </div>
 
