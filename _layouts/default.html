@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    </header>
+
+    <nav class="nav-bar">
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Overview</a>
+      <a href="{{ '/demographics' | relative_url }}" {% if page.url contains 'demographics' %}class="active"{% endif %}>Demographics</a>
+      <a href="{{ '/atmosphere' | relative_url }}" {% if page.url contains 'atmosphere' %}class="active"{% endif %}>Atmosphere</a>
+      <a href="{{ '/leadership' | relative_url }}" {% if page.url contains 'leadership' %}class="active"{% endif %}>Leadership</a>
+      <a href="{{ '/events' | relative_url }}" {% if page.url contains 'events' %}class="active"{% endif %}>Events</a>
+      <a href="{{ '/future-direction' | relative_url }}" {% if page.url contains 'future' %}class="active"{% endif %}>Future Direction</a>
+      <a href="{{ '/detailed-feedback' | relative_url }}" {% if page.url contains 'feedback' %}class="active"{% endif %}>Detailed Feedback</a>
+    </nav>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <p>SGC Community Survey 2025 | <a href="https://github.com/RatherFancyCat/sgc-survey-2025">View on GitHub</a></p>
+      </footer>
+    </main>
+  </body>
+</html>
