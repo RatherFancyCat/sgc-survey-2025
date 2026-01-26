@@ -554,30 +554,4 @@ I like having some of the community games be on other games, but to play those I
 
 ---
 
-## Recommendations
-
-<div class="card" markdown="1">
-
-### Event Strategy Reform
-
-**Tier 1 - IMMEDIATE:**
-1. Cancel Clan Wars permanently (or postpone indefinitely pending redesign)
-2. Add multi-gaming nights to regular schedule
-3. Rebalance POTW stream format (less donation talk, more recognition)
-4. Gather community input before planning major events
-
-**Tier 2 - HIGH PRIORITY:**
-5. Expand Zero to Hero series (raids, PvP, other games)
-6. Create cross-clan collaborative event calendar
-7. Introduce multi-game achievement recognition
-8. Rotate event organizers/planners
-
-**Tier 3 - MODERATE PRIORITY:**
-9. Redesign podcast or discontinue
-10. Add EU-friendly event times
-11. Create event feedback loops
-12. Develop casual party game nights
-
-</div>
-
 <a href="future-direction" class="btn">Next: Future Direction →</a>
