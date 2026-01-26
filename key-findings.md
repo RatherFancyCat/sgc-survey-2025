@@ -38,7 +38,6 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
     <span class="stat-number">4.3/5</span>
     <span class="stat-label">In-Clan Interactions</span>
   </div>
-  <br>
   <div class="stat-card">
     <span class="stat-number">3.2/5</span>
     <span class="stat-label">Cross-Clan Interactions</span>
@@ -192,26 +191,31 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 ### What's Working Well
 
 **✅ Individual Clan Atmospheres (4.4/5)**
+
 - Members love their clan homes
 - Strong local bonds and friendships
 - Clan admins generally well-regarded
 
 **✅ Specific Leaders Highly Praised**
+
 - Xiamara (4.8/5) - Outstanding approachability
 - Rather Fancy Cat (4.6/5) - Friendly and accessible
 - Devilito (4.5/5) - Helpful and reliable
 
 **✅ Community Investment**
+
 - 128 responses to 70+ question survey
 - Detailed, thoughtful feedback
 - Members care deeply about SGC's future
 
 **✅ Teaching Events Popular**
+
 - Zero to Hero series praised
 - Collaborative events well-received
 - Members want to help each other
 
 **✅ Strong Friendships Formed**
+
 - Members staying for community, not game
 - Genuine connections made
 - Desire to preserve relationships
@@ -255,4 +259,4 @@ To explore the data in depth:
 
 </div>
 
-<a href="index" class="btn">Return to Overview</a>
+<a href="atmosphere" class="btn">Next: Atmosphere →</a>
