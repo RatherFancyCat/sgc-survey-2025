@@ -7,12 +7,12 @@ Approximately 35-40 respondents provided additional comments beyond the structur
 
 ## Search and Filter
 
-<div class="filter-section" markdown="1">
+<div class="filter-section">
   <input type="text" id="searchBox" class="search-box" placeholder="Search feedback by keyword...">
   
-  <div class="filter-group" markdown="1">
+  <div class="filter-group">
     <label>Filter by Theme:</label>
-    <select id="themeFilter" markdown="1">
+    <select id="themeFilter">
       <option value="all">All Themes</option>
       <option value="multi-gaming">Multi-Gaming Transition</option>
       <option value="leadership">Leadership Concerns</option>
@@ -28,7 +28,7 @@ Approximately 35-40 respondents provided additional comments beyond the structur
   <button class="btn" onclick="downloadFeedback()">📥 Download All Feedback</button>
 </div>
 
-<div id="feedbackCount" class="stat-card" style="margin: 20px 0;" markdown="1">
+<div id="feedbackCount" class="stat-card" style="margin: 20px 0;">
   <span class="stat-number" id="resultCount">0</span>
   <span class="stat-label">Feedback Items Shown</span>
 </div>
