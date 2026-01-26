@@ -25,7 +25,7 @@ Members rated various aspects of SGC's atmosphere on a 1-5 scale, where 1 = Very
 
 ## 1. Overall SGC Atmosphere
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Rating Distribution
 
@@ -65,7 +65,7 @@ It's a very unpleasant atmosphere... It doesn't help we are forced to play desti
 
 ## 2. In-Clan Interactions
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Rating Distribution
 
@@ -121,7 +121,7 @@ Sometimes being a part of SLS doesnt really feel very welcoming. Its full of hig
 
 ## 3. Cross-Clan Interactions
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Rating Distribution
 
@@ -213,7 +213,7 @@ Everyone I've played with from other clans has been great.
 
 ## 4. Individual Clan Atmosphere
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Rating Distribution
 
@@ -257,7 +257,7 @@ My clan specifically is amazing. The broader SGC... not so much.
 
 ## Atmosphere by Clan (Qualitative Analysis)
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Top Performing Clans (Based on Member Feedback)
 
@@ -347,7 +347,7 @@ We don't really trust the word of the SGC admins anymore and typically avoid the
 
 ## Sentiment Themes
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Positive Sentiments
 
@@ -429,7 +429,7 @@ It doesn't help we are forced to play destiny 2 which is utterly and completely 
 
 ## Recommendations
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### To Improve Cross-Clan Atmosphere
 
