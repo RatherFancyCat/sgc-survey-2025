@@ -725,7 +725,7 @@ The Destiny 2 that brought everyone together doesn't exist anymore. But the frie
 
 ---
 
-<div class="alert alert-success">
+<div class="alert alert-success" markdown="1">
 
 ### Hope for the Future
 
