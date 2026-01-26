@@ -699,7 +699,3 @@ function downloadFeedback() {
   window.URL.revokeObjectURL(url);
 }
 </script>
-  alert('Download functionality will be implemented');
-  // Will generate CSV/JSON download of all feedback
-}
-</script>
