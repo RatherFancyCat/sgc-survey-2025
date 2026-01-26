@@ -25,7 +25,7 @@ Members rated the approachability of various SGC staff members and provided deta
 
 ## Individual Leadership Ratings
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Most Approachable Leaders (Rated 4-5/5)
 
@@ -34,15 +34,15 @@ Members were asked to rate various staff members on approachability. The followi
 #### **Xiamara (Division Leader)**
 **Rating: 4.8/5** - Highest rated leader
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Xiamara - outstanding admin, I go to her majority of the time for my issues.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Xia is amazing no doubt there.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Xia hardest working person in staff.
 </div>
 
@@ -50,14 +50,14 @@ Xia hardest working person in staff.
 
 ---
 
-#### **Rather Fancy Cat (Streamer/Mod)**
+#### **Rather Fancy Cat (Streamer/Shrouded Admin)**
 **Rating: 4.6/5**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Fancy cat is super easy to talk to.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Rather Fancy best sgc streamer ever is a 5 for me super duper approachable.
 </div>
 
@@ -68,11 +68,11 @@ Rather Fancy best sgc streamer ever is a 5 for me super duper approachable.
 #### **Devilito (Moderator)**
 **Rating: 4.5/5**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Devilito is pretty awesome - Very approachable.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Devilito is the reason I knew I won the shaker.
 </div>
 
@@ -83,17 +83,17 @@ Devilito is the reason I knew I won the shaker.
 #### **Other Well-Rated Leaders:**
 
 **MoonChild (Admin)**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Moon is great, super approachable and helpful.
 </div>
 
 **Destiny Flavor (Admin)**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Destiny Flavor is very approachable and fair.
 </div>
 
 **Saddistic (Division Leader)**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Saddistic is awesome, always willing to help.
 </div>
 
@@ -108,11 +108,11 @@ Saddistic is awesome, always willing to help.
 
 ## Leadership Concerns
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Critical Issues Identified
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 <strong>PRIORITY 1:</strong> Specific leadership behavior patterns requiring immediate attention
 </div>
 
@@ -130,43 +130,43 @@ Saddistic is awesome, always willing to help.
 
 **Sample Feedback:**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Wrecked he's lousy at being an admin he's cruel unfair and unreasonable most times. I feel that he should have never been giving any form of power and should be stripped of it immediately he's an extreme detriment to this gaming community.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The only one that needs gone from that list is wrecked he shouldn't have any form of power he brings the whole community down. He's a bad person a hypocrite, liar and overall bad dude.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 From what I see in chats and have experienced both wrecked and Hoppe are very egotistical fake and absolutely rude.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Make this a gaming community not a destiny 2 community and get wrecked out of power it's bad for business!
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 It's a very unpleasant atmosphere... having wrecked in that form of power will completely crush the SGC.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 A good leader lifts the entire team, not just a select few. If Wrecked doesn't want to be a good leader, but continue on his current role, then consider giving the role to someone who genuinely cares about the community.
 </div>
 
 **Specific Incident - Clan Wars Messaging:**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Clan Wars seemed like an event that would be something that would have the Clans duking it out in the spirit of competition and then next thing you know we have the event organizer coming in and telling us that it was meant to be a community building event. Not a competition. What a joke.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat and makes me think that Wrecked is being a sanctimonious prick about it.
 </div>
 
 **Counter-Perspective (Minority View):**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Wrecked is cool af the 'role abusing pussy' he has the power & I've seen him 1st hand he will use it in the funniest of ways great dude.
 </div>
 
@@ -177,19 +177,19 @@ Wrecked is cool af the 'role abusing pussy' he has the power & I've seen him 1st
 #### **Other Leadership Concerns**
 
 **Hoppe (mentioned with Wrecked):**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 From what I see in chats and have experienced both wrecked and Hoppe are very egotistical fake and absolutely rude.
 </div>
 
 **Jango (Trust Issue):**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I don't trust Jango, who broke a critical core rule of the SGC and kept his role.
 </div>
 - Accountability concern
 - Perception of double standards
 
 **Inactive Leadership:**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The clan is dead, and there is zero activity from the officers. They don't even touch anything destiny related.
 </div>
 - Multiple clans mentioned having inactive officers/admins
@@ -201,33 +201,33 @@ The clan is dead, and there is zero activity from the officers. They don't even 
 
 ## Favoritism & Accountability
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Systemic Issues
 
-<div class="alert alert-warning">
+<div class="alert alert-warning" markdown="1">
 <strong>PATTERN IDENTIFIED:</strong> Perception that rules apply differently to staff vs regular members
 </div>
 
 **Evidence from Feedback:**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Favoritism is clear within the SGC Admins from my perspective.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I get they are all friends, but at the end of the day the admins should be treated like managers of a job, if they are wrong they should be punished, not ban the people that spoke up.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Members of staff (Officer and up) breaking SGC Code of Conduct and getting a slap on the wrist when others would have been kicked/banned. Rules are seemingly lax when a staff member is the offender.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I don't trust Jango, who broke a critical core rule of the SGC and kept his role.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 And where are the moderators or admin staff? They are silent. In fact they mainly support her. (re: NSFW content issue)
 </div>
 
@@ -254,7 +254,7 @@ And where are the moderators or admin staff? They are silent. In fact they mainl
 
 ## Leadership Structure Feedback
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What Works Well
 
@@ -301,17 +301,17 @@ And where are the moderators or admin staff? They are silent. In fact they mainl
 
 ## Member Suggestions
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### How to Improve Leadership
 
 **1. Accountability for All**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I get they are all friends, but at the end of the day the admins should be treated like managers of a job, if they are wrong they should be punished, not ban the people that spoke up.
 </div>
 
 **2. Remove Inactive Leaders**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The clan is dead, and there is zero activity from the officers. They don't even touch anything destiny related.
 </div>
 - Regular activity audits for leadership
@@ -319,7 +319,7 @@ The clan is dead, and there is zero activity from the officers. They don't even 
 - Set minimum engagement standards
 
 **3. Address Specific Problem Leaders**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Wrecked he's lousy at being an admin he's cruel unfair and unreasonable most times. I feel that he should have never been giving any form of power and should be stripped of it immediately.
 </div>
 - Multiple members call for specific actions
@@ -327,7 +327,7 @@ Wrecked he's lousy at being an admin he's cruel unfair and unreasonable most tim
 - Investigation warranted at minimum
 
 **4. Transparent Enforcement**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Members of staff (Officer and up) breaking SGC Code of Conduct and getting a slap on the wrist when others would have been kicked/banned.
 </div>
 - Public accountability for staff violations
@@ -345,7 +345,7 @@ Members of staff (Officer and up) breaking SGC Code of Conduct and getting a sla
 
 ## Approachability by Role
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Analysis by Position
 
@@ -372,7 +372,7 @@ Members of staff (Officer and up) breaking SGC Code of Conduct and getting a sla
 
 ## Trust Metrics
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Do Members Trust Leadership?
 
@@ -389,7 +389,7 @@ Members of staff (Officer and up) breaking SGC Code of Conduct and getting a sla
 - In specific individuals (critical concerns)
 - In "mega-clan" leadership structure
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 We don't really trust the word of the SGC admins anymore and typically avoid them unless absolutely necessary.
 </div>
 
@@ -401,7 +401,7 @@ This quote from Wraiths members summarizes a broader sentiment: **Trust in local
 
 ## Critical Findings
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 
 ### Immediate Action Required
 
@@ -436,7 +436,7 @@ This quote from Wraiths members summarizes a broader sentiment: **Trust in local
 
 ## Positive Leadership Examples
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Models to Replicate
 
@@ -468,7 +468,7 @@ The question: Why can some leaders achieve this while others struggle or fail?
 
 ## Recommendations
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Leadership Reform Priorities
 
