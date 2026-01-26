@@ -38,6 +38,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
     <span class="stat-number">4.3/5</span>
     <span class="stat-label">In-Clan Interactions</span>
   </div>
+  <br>
   <div class="stat-card">
     <span class="stat-number">3.2/5</span>
     <span class="stat-label">Cross-Clan Interactions</span>
