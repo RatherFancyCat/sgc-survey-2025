@@ -1,9 +1,416 @@
-quote-box {
-    font-style: italic;
-    quotes: "\201C" "\201D";
+---
+---
+
+@import "{{ site.theme }}";
+
+// Destiny-themed custom CSS styling
+
+// Color Variables
+:root {
+    --primary-gold: #e3c343;
+    --destiny-blue: #4a5f8c;
+    --accent-orange: #f8a627;
+    --dark-bg: #0a0e1a;
+    --card-bg: #1a1f2e;
+    --text-light: #e8e8e8;
+    --text-gold: #d4af37;
+    --hover-blue: #5d7ab8;
 }
 
-/* Add attribution to quotes */
-.quote-padding::after {
-    content: "— SGC Member";
+body {
+    background-color: var(--dark-bg);
+    color: var(--text-light);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+// Header Styling
+.page-header {
+    background: linear-gradient(135deg, var(--destiny-blue) 0%, var(--dark-bg) 100%);
+    border-bottom: 3px solid var(--primary-gold);
+    padding: 2rem 1rem;
+}
+
+.project-name {
+    color: var(--primary-gold);
+    text-shadow: 0 0 10px rgba(227, 195, 67, 0.5);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.project-tagline {
+    color: var(--text-light);
+    opacity: 0.9;
+}
+
+// Navigation Bar Styling
+.nav-bar {
+    background: linear-gradient(90deg, var(--destiny-blue) 0%, #2a3a5c 100%);
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border-bottom: 2px solid var(--primary-gold);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-bar a {
+    color: var(--text-light);
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    position: relative;
+}
+
+.nav-bar a:last-child {
+    border-right: none;
+}
+
+.nav-bar a:hover {
+    background-color: var(--hover-blue);
+    color: var(--primary-gold);
+    transform: translateY(-2px);
+}
+
+.nav-bar a.active {
+    background-color: var(--primary-gold);
+    color: var(--dark-bg);
+    font-weight: bold;
+}
+
+.nav-bar a.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background-color: var(--accent-orange);
+}
+
+// Main Content
+.main-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: var(--dark-bg);
+}
+
+// Card Layouts
+.card {
+    background-color: var(--card-bg) !important;
+    border: 2px solid var(--destiny-blue) !important;
+    border-left: 5px solid var(--primary-gold) !important;
+    border-radius: 8px !important;
+    padding: 1.5rem !important;
+    margin: 1.5rem 0 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4) !important;
+    display: block !important;
+}
+
+.card h3, .card h4 {
+    color: var(--primary-gold);
+    margin-top: 0.5rem;
+}
+
+.card ul, .card ol {
+    margin-left: 1.5rem;
+}
+
+.card p {
+    margin: 0.75rem 0;
+}
+
+// Quote Boxes - with opening quote, closing quote, and attribution
+.quote-box {
+    background-color: var(--card-bg) !important;
+    border-left: 5px solid var(--accent-orange) !important;
+    padding: 1.25rem 1.5rem 1.25rem 2.5rem !important;
+    margin: 1.5rem 0 !important;
+    font-style: italic !important;
+    color: var(--text-light) !important;
+    border-radius: 6px !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3) !important;
+    display: block !important;
+    position: relative !important;
+}
+
+// Opening quote mark
+.quote-box::before {
+    content: '"';
+    font-size: 4rem;
+    color: var(--accent-orange);
+    opacity: 0.4;
+    position: absolute;
+    top: -5px;
+    left: 10px;
+    font-family: Georgia, serif;
+    line-height: 1;
+}
+
+// Closing quote mark and attribution
+.quote-box::after {
+    content: '"\A— SGC Member';
+    white-space: pre;
+    font-size: 1rem;
+    color: var(--accent-orange);
+    opacity: 0.8;
+    display: block;
+    text-align: right;
+    margin-top: 0.75rem;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.quote-box p {
+    margin: 0;
+    position: relative;
+    z-index: 1;
+}
+
+// Stat Grids
+.stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.stat-card {
+    background: linear-gradient(135deg, var(--destiny-blue) 0%, var(--card-bg) 100%);
+    border: 2px solid var(--primary-gold);
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(227, 195, 67, 0.3);
+}
+
+.stat-number {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--primary-gold);
+    text-shadow: 0 0 10px rgba(227, 195, 67, 0.5);
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    display: block;
+    font-size: 0.9rem;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+// Alerts
+.alert {
+    padding: 1.25rem !important;
+    margin: 1.5rem 0 !important;
+    border-radius: 8px !important;
+    border-left: 5px solid !important;
+    display: block !important;
+}
+
+.alert h3, .alert h4 {
+    margin-top: 0;
+}
+
+.alert p {
+    margin: 0.75rem 0;
+}
+
+.alert-info {
+    background-color: rgba(74, 95, 140, 0.25) !important;
+    border-color: var(--destiny-blue) !important;
+    color: var(--text-light) !important;
+}
+
+.alert-warning {
+    background-color: rgba(248, 166, 39, 0.25) !important;
+    border-color: var(--accent-orange) !important;
+    color: var(--text-light) !important;
+}
+
+.alert-critical {
+    background-color: rgba(220, 53, 69, 0.25) !important;
+    border-color: #dc3545 !important;
+    color: #ffb3ba !important;
+}
+
+.alert-success {
+    background-color: rgba(40, 167, 69, 0.25) !important;
+    border-color: #28a745 !important;
+    color: #90ee90 !important;
+}
+
+// Buttons
+.btn {
+    background: linear-gradient(135deg, var(--primary-gold) 0%, var(--accent-orange) 100%);
+    color: var(--dark-bg);
+    border: none;
+    border-radius: 6px;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(227, 195, 67, 0.4);
+    text-decoration: none;
+}
+
+.btn-secondary {
+    background: linear-gradient(135deg, var(--destiny-blue) 0%, var(--hover-blue) 100%);
+    color: var(--text-light);
+}
+
+// Tables
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th {
+    background-color: var(--destiny-blue);
+    color: var(--primary-gold);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 1rem;
+    text-align: left;
+}
+
+td {
+    padding: 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-light);
+}
+
+tr:hover {
+    background-color: rgba(74, 95, 140, 0.2);
+}
+
+// Footer
+.site-footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 3rem;
+    border-top: 2px solid var(--primary-gold);
+    color: var(--text-light);
+    opacity: 0.8;
+}
+
+.site-footer a {
+    color: var(--primary-gold);
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+    .nav-bar {
+        flex-direction: column;
+        position: relative;
+    }
+    
+    .nav-bar a {
+        width: 100%;
+        text-align: center;
+        border-right: none;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    
+    .stat-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .main-content {
+        padding: 1rem;
+    }
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-gold);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    border-bottom: 2px solid var(--primary-gold);
+    padding-bottom: 0.5rem;
+}
+
+// Links
+a {
+    color: var(--primary-gold);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--accent-orange);
+    text-decoration: underline;
+}
+
+// Lists
+ul, ol {
+    line-height: 1.8;
+}
+
+li {
+    margin: 0.5rem 0;
+}
+
+// Code blocks
+code {
+    background-color: var(--card-bg);
+    color: var(--accent-orange);
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+}
+
+pre {
+    background-color: var(--card-bg);
+    border: 1px solid var(--destiny-blue);
+    border-left: 4px solid var(--primary-gold);
+    border-radius: 6px;
+    padding: 1rem;
+    overflow-x: auto;
+}
+
+// Horizontal Rules
+hr {
+    border: none;
+    border-top: 2px solid var(--destiny-blue);
+    margin: 2rem 0;
 }
