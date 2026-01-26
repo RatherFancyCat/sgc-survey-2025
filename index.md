@@ -1,85 +1,55 @@
-# SGC Community Survey 2025: Executive Summary
+# SGC Community Survey 2025
 
-## Survey Overview
+## About This Survey
+In October 2025, the SGC community was invited to participate in a comprehensive survey to gather honest feedback.
 
-<div class="stat-grid">
-  <div class="stat-card">
-    <span class="stat-number">128</span>
-    <span class="stat-label">Total Responses</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">20+</span>
-    <span class="stat-label">Clans Represented</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">70+</span>
-    <span class="stat-label">Questions Asked</span>
-  </div>
-</div>
+## Why This Survey Was Conducted
+SGC stands at a critical crossroads with questions about structure, leadership, events, and Destiny 2's role.
 
-## Key Findings
+## The Response
+A total of 128 members completed the 70+ question survey.
 
-### 🎯 Community Health
+## Survey Scope
+The survey covered demographics, atmosphere, leadership, events, future direction, and open feedback.
 
-The SGC community shows **strong in-clan bonds** with most members rating their clan experience highly (4-5/5). However, cross-clan interactions reveal more challenges, with elitism and division being recurring concerns.
+## Anonymity & Honesty
+60% of respondents chose to remain anonymous.
 
-<div class="quote-box">
-"I just wanted to say that this is the first clan/community that I have truly enjoyed being part of, regardless of the ups and downs that have taken place over my years with this community."
-</div>
+## Survey Overview Stat Cards
+- **Total Responses:** 128
+- **Clans Represented:** 20+
+- **Questions Asked:** 70+
+- **Anonymous Responses:** 60%
 
-### ⚠️ Critical Issues Identified
+## What This Analysis Provides
+- ✔️ Preserving member voices
+- ✔️ Identifying patterns
+- ✔️ Providing context
+- ✔️ Offering recommendations
+- ✔️ Maintaining anonymity
 
-<div class="alert alert-critical">
-<strong>URGENT:</strong> Multiple leadership concerns raised, particularly regarding favoritism, accountability, and specific admin behavior patterns.
-</div>
+### SGC Leadership
+(Insert Leadership Specifics Here)
 
-<div class="alert alert-warning">
-<strong>HIGH PRIORITY:</strong> Destiny 2's declining state threatens SGC's foundation. Members are staying for the community, not the game.
-</div>
+### SGC Members
+(Insert Members Specifics Here)
 
-### 📊 Atmosphere Ratings
+## Explore the Full Report
+- [Key Findings](#)
+- [Demographics](#)
+- [Atmosphere](#)
+- [Leadership](#)
+- [Events](#)
+- [Future Direction](#)
+- [Detailed Feedback](#)
 
-- **Overall SGC Atmosphere:** 3-4 average (Mixed to Good)
-- **In-Clan Interactions:** 4-5 average (Good to Excellent)
-- **Cross-Clan Interactions:** 3-4 average (Mixed to Good)
-- **Individual Clan Atmosphere:** 4-5 average (Good to Excellent)
+## What Happens Next?
+### For Leadership
+(Insert Messages for Leadership Here)
 
-### 🎮 Future Direction
+### For Members
+(Insert Messages for Members Here)
 
-<div class="stat-grid">
-  <div class="stat-card">
-    <span class="stat-number">75%</span>
-    <span class="stat-label">Support Multi-Gaming (4-5/5)</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">15%</span>
-    <span class="stat-label">Destiny Only (1-2/5)</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">10%</span>
-    <span class="stat-label">Neutral (3/5)</span>
-  </div>
-</div>
-
-<div class="quote-box">
-"I don't want SGC to die off with destiny, I want to keep my close friends from here. If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games, because SGC as a whole is amazing to me."
-</div>
-
-## Navigation
-  
-### Explore the Full Report
-
-- **[Demographics](demographics)** - Who responded and their SGC tenure
-- **[Atmosphere](atmosphere)** - Community experience ratings and sentiment
-- **[Leadership](leadership)** - Staff approachability and feedback
-- **[Events](events)** - Community events performance and suggestions
-- **[Future Direction](future-direction)** - Multi-gaming vs Destiny focus discussion
-- **[Detailed Feedback](detailed-feedback)** - Deep dive into open-ended responses
-
----
-
-<div class="alert alert-info">
-<strong>Note:</strong> This survey was conducted in October 2025. All data presented maintains original anonymity choices and clan names as provided by respondents.
-</div>
-
-<a href="demographics" class="btn">Start Exploring the Data →</a>
+> **Alert**: Survey conducted October 2025  
+> [View Key Findings](#)  
+> [Start Exploring the Data](#)
