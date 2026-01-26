@@ -1,9 +1,3 @@
-@@ -0,0 +1,115 @@
----
-layout: default
-title: Overview
----
-
 # SGC Community Survey 2025: Executive Summary
 
 ## Survey Overview
