@@ -560,17 +560,28 @@ Despite criticisms, many members expressed genuine affection:
 
 <div class="alert alert-warning" markdown="1">
 
-The feedback reveals a community at a <strong>crossroads</strong>:
+### The feedback reveals a community at a crossroads:
 
-- ✅ <strong>Strong foundation:</strong>: Genuine friendships, meaningful connections, appreciation for what SGC has built
-- ⚠️ <strong>Existential crisis:</strong> Foundation game is dying, must evolve or face dissolution
-- ⚠️ <strong>Leadership crisis:</strong> Specific concerns about favoritism, accountability, and one particular admin
-- ⚠️ <strong>Cultural crisis:</strong> Elitism and division undermining "mega-clan" concept
-- 🚨 <strong>Moderation crisis:</strong> NSFW content going unaddressed
+**Strong foundation:**
+- Genuine friendships, meaningful connections, appreciation for what SGC has built
 
-<strong>But there's hope:</strong> The fact that 128 people took time to complete a detailed survey shows they care. They're not apathetic—they're invested.
+**Existential crisis:**
+- Foundation game is dying, must evolve or face dissolution
 
-The window to address these issues is <strong>now</strong>, while people still care enough to give feedback.
+**Leadership crisis:**
+- Specific concerns about favoritism, accountability, and one particular admin
+
+**Cultural crisis:**
+- Elitism and division undermining "mega-clan" concept
+
+**Moderation crisis:**
+- NSFW content going unaddressed
+
+---
+
+**But there's hope:** The fact that 128 people took time to complete a detailed survey shows they care. They're not apathetic—they're invested.
+
+**The window to address these issues is NOW, while people still care enough to give feedback.**
 
 </div>
 
