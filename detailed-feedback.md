@@ -575,28 +575,130 @@ The window to address these issues is **now**, while people still care enough to
 </div>
 
 <script>
-// JavaScript for search and filter functionality
+// Working search and filter functionality
 document.addEventListener('DOMContentLoaded', function() {
   const searchBox = document.getElementById('searchBox');
   const themeFilter = document.getElementById('themeFilter');
+  const allCards = document.querySelectorAll('.card');
+  const resultCount = document.getElementById('resultCount');
   
-  // This will be enhanced with actual filtering logic
+  // Initialize count
+  updateResultCount();
+  
+  // Search functionality
   if (searchBox) {
     searchBox.addEventListener('input', function() {
-      console.log('Searching for:', this.value);
-      // Filter logic will be added
+      filterContent();
     });
   }
   
+  // Theme filter functionality
   if (themeFilter) {
     themeFilter.addEventListener('change', function() {
-      console.log('Filtering by:', this.value);
-      // Filter logic will be added
+      filterContent();
     });
+  }
+  
+  function filterContent() {
+    const searchTerm = searchBox.value.toLowerCase();
+    const selectedTheme = themeFilter.value;
+    let visibleCount = 0;
+    
+    allCards.forEach(card => {
+      const cardText = card.textContent.toLowerCase();
+      const cardHeader = card.previousElementSibling;
+      let headerText = '';
+      
+      // Get the header text for theme matching
+      if (cardHeader && (cardHeader.tagName === 'H3' || cardHeader.tagName === 'H2')) {
+        headerText = cardHeader.textContent.toLowerCase();
+      }
+      
+      // Check search match
+      const searchMatch = searchTerm === '' || cardText.includes(searchTerm);
+      
+      // Check theme match
+      let themeMatch = selectedTheme === 'all';
+      if (!themeMatch) {
+        switch(selectedTheme) {
+          case 'multi-gaming':
+            themeMatch = headerText.includes('multi-gaming') || headerText.includes('transition') || cardText.includes('multi-gaming');
+            break;
+          case 'leadership':
+            themeMatch = headerText.includes('leadership') || headerText.includes('mister wrecked') || cardText.includes('wrecked') || cardText.includes('leadership');
+            break;
+          case 'clan-wars':
+            themeMatch = headerText.includes('clan wars') || cardText.includes('clan wars');
+            break;
+          case 'positive':
+            themeMatch = headerText.includes('positive') || headerText.includes('gratitude') || headerText.includes('love for sgc');
+            break;
+          case 'moderation':
+            themeMatch = headerText.includes('nsfw') || headerText.includes('moderation') || cardText.includes('nsfw');
+            break;
+          case 'events':
+            themeMatch = headerText.includes('event') || headerText.includes('podcast') || headerText.includes('stream');
+            break;
+          case 'destiny':
+            themeMatch = headerText.includes('destiny 2 state') || (cardText.includes('destiny') && cardText.includes('dead'));
+            break;
+          case 'culture':
+            themeMatch = headerText.includes('cross-clan') || headerText.includes('culture') || cardText.includes('elitist');
+            break;
+        }
+      }
+      
+      // Show or hide based on matches
+      if (searchMatch && themeMatch) {
+        card.style.display = 'block';
+        if (cardHeader) cardHeader.style.display = 'block';
+        visibleCount++;
+      } else {
+        card.style.display = 'none';
+        if (cardHeader) cardHeader.style.display = 'none';
+      }
+    });
+    
+    updateResultCount(visibleCount);
+  }
+  
+  function updateResultCount(count) {
+    if (count === undefined) {
+      count = allCards.length;
+    }
+    resultCount.textContent = count;
   }
 });
 
 function downloadFeedback() {
+  // Create text content from all visible feedback
+  const allCards = document.querySelectorAll('.card');
+  let feedbackText = 'SGC Community Survey 2025 - Detailed Feedback\n';
+  feedbackText += '='.repeat(60) + '\n\n';
+  
+  allCards.forEach((card, index) => {
+    if (card.style.display !== 'none') {
+      const header = card.previousElementSibling;
+      if (header) {
+        feedbackText += header.textContent + '\n';
+        feedbackText += '-'.repeat(40) + '\n';
+      }
+      feedbackText += card.textContent + '\n\n';
+    }
+  });
+  
+  // Create download
+  const blob = new Blob([feedbackText], { type: 'text/plain' });
+  const url = window.URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'sgc-survey-feedback.txt';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  window.URL.revokeObjectURL(url);
+}
+</script>
   alert('Download functionality will be implemented');
   // Will generate CSV/JSON download of all feedback
 }
