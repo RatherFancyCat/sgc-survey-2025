@@ -76,27 +76,6 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 - **[Future Direction](future-direction)** - Multi-gaming vs Destiny focus discussion
 - **[Detailed Feedback](detailed-feedback)** - Deep dive into open-ended responses
 
-## Action Items Summary
-
-### Tier 1 - URGENT (Immediate Action Required)
-
-1. **NSFW Content Investigation** - Specific moderation failure reported in APEX
-2. **Leadership Review** - Address concerns about specific admin behavior
-3. **Multi-Gaming Transition** - Community consensus is clear and urgent
-
-### Tier 2 - High Priority (1-2 Months)
-
-4. **Activity Requirements Reform** - Allow non-Destiny games to count
-5. **Cross-Clan Elitism** - Address toxic behavior and promote unity
-6. **Accountability Standards** - Transparent enforcement for all members
-7. **Inactive Leadership Audit** - Replace absent clan officers/admins
-
-### Tier 3 - Moderate Priority (3-6 Months)
-
-8. **Event Strategy Overhaul** - Focus on collaborative vs competitive
-9. **Stream/Podcast Relevance** - Diversify content beyond Destiny
-10. **Communication Systems** - Centralize announcements, improve visibility
-
 ---
 
 <div class="alert alert-info">
