@@ -25,7 +25,7 @@ Understanding who participated in the survey helps contextualize the feedback an
 
 ## Anonymity Choice
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### How did respondents identify themselves?
 
@@ -44,7 +44,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ## Tenure in SGC
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### How long have members been part of SGC?
 
@@ -77,7 +77,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ## Clan Distribution
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Which clans participated?
 
@@ -115,7 +115,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ## Clan Mobility
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Have members moved between clans?
 
@@ -192,7 +192,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ## Role Distribution
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What roles do respondents hold?
 
@@ -231,7 +231,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 ## Geographic/Platform Notes
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Platform and Timezone Considerations
 
@@ -257,7 +257,7 @@ While not explicitly asked, some patterns emerged:
 
 ## Respondent Characteristics
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What makes this dataset valuable?
 
@@ -307,7 +307,7 @@ This dataset provides a **robust and diverse perspective** on SGC's community he
 
 ---
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What This Means for Analysis
 
