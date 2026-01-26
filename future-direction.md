@@ -1,6 +1,6 @@
 # Future Direction: Multi-Gaming vs Destiny Focus
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 <strong>EXISTENTIAL QUESTION:</strong> Should SGC evolve into a multi-gaming community or remain Destiny-focused?
 </div>
 
@@ -29,7 +29,7 @@
 
 ## Survey Question Analysis
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Question: "How important is it for SGC to evolve into a multi-gaming community?"
 
@@ -57,27 +57,27 @@
 
 ## The Case for Multi-Gaming (From Members)
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Urgency and Necessity
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The entire focus of SGC being 'Greeners streaming server' is just not gonna work, with destiny dying... the community was mainly focused on the game, that game is now dying, the only 2 options there are right now is to either adapt or die with it.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I don't want SGC to die off with destiny, I want to keep my close friends from here. That's it. If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games, because SGC as a whole is amazing to me and is dear to me, for it to be in the hands of bungie or destiny does not make me feel warm and fuzzy.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 SGC needs to embrace being a community of people playing different games and working with that rather than trying to cling to a dying game and slowly dying with it.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Make this a gaming community not a destiny 2 community.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Make this a gaming community not a destiny 2 community and get wrecked out of power it's bad for business!
 </div>
 
@@ -85,15 +85,15 @@ Make this a gaming community not a destiny 2 community and get wrecked out of po
 
 ### Preserving Community, Not the Game
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I don't want SGC to die off with destiny, I want to keep my close friends from here.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The only reason I still have it [Destiny] is because of SGC.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I can hardly even bring myself to launch the game.
 </div>
 
@@ -103,15 +103,15 @@ I can hardly even bring myself to launch the game.
 
 ### Current Reality: Already Playing Other Games
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The game is dead in my opinion. Myself and several others do link up and play BF, TFD and Warframe.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 It sucks, and I play other games more often. I hope it changes.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Wish people played other games together too.
 </div>
 
@@ -121,19 +121,19 @@ Wish people played other games together too.
 
 ### Activity Requirement Tension
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I like having some of the community games be on other games, but to play those I have to also play all the time on destiny to stay in the clan. Just makes it hard to enjoy other games.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 It would be nice to have the clan open to playing other multiplayer games and not have to worry about getting removed because I'm not on Destiny as much anymore.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I wish that there was a way for us to track/count time spent in games if we are spending time with a member of the SGC... A way for us to enjoy our times together and have it all count towards our activity.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I like the group in Bastion, I just wish it didn't have its own set of participation rules that have to be met each week before you play with other sgc communities.
 </div>
 
@@ -143,19 +143,19 @@ I like the group in Bastion, I just wish it didn't have its own set of participa
 
 ### Survival Imperative
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Destiny is dead, its getting beat by cookie clicker.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The game is dead or is dying it's force fed from this 'GAMING COMMUNITY'.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I love this game, but this dlc destroyed my trust in bungie.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Stop with coping about it, accept reality and put that effort into something that will matter.
 </div>
 
@@ -167,7 +167,7 @@ Stop with coping about it, accept reality and put that effort into something tha
 
 ## The Case for Staying Destiny-Focused (Minority View)
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Arguments Presented
 
@@ -196,7 +196,7 @@ Stop with coping about it, accept reality and put that effort into something tha
 ### Counter-Arguments to These Concerns
 
 **Re: Identity and History**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 SGC as a whole is amazing to me and is dear to me, for it to be in the hands of bungie or destiny does not make me feel warm and fuzzy.
 </div>
 - Identity is **the people**, not the game
@@ -204,7 +204,7 @@ SGC as a whole is amazing to me and is dear to me, for it to be in the hands of 
 - Evolution preserves what matters (friendships)
 
 **Re: Organizational Complexity**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Myself and several others do link up and play BF, TFD and Warframe.
 </div>
 - Already happening organically
@@ -212,7 +212,7 @@ Myself and several others do link up and play BF, TFD and Warframe.
 - Don't need to manage everything centrally
 
 **Re: Hope for Destiny's Recovery**
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games.
 </div>
 - Multi-gaming doesn't abandon Destiny
@@ -230,7 +230,7 @@ If destiny succeeds and revives itself which god I'm hoping it does. Id still lo
 
 ## What Multi-Gaming Could Look Like
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Proposed Models
 
@@ -301,11 +301,11 @@ If destiny succeeds and revives itself which god I'm hoping it does. Id still lo
 
 ## Activity Requirements: The Core Issue
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Current System Problems
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I like having some of the community games be on other games, but to play those I have to also play all the time on destiny to stay in the clan. Just makes it hard to enjoy other games.
 </div>
 
@@ -321,7 +321,7 @@ I like having some of the community games be on other games, but to play those I
 
 #### **Solution 1: Unified Activity Metric**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I wish that there was a way for us to track/count time spent in games if we are spending time with a member of the SGC... A way for us to enjoy our times together and have it all count towards our activity.
 </div>
 
@@ -372,41 +372,41 @@ I wish that there was a way for us to track/count time spent in games if we are 
 
 ## Destiny 2's Current State (Member Assessment)
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Sentiment Analysis
 
 **Overwhelmingly Negative:**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Destiny is dead, its getting beat by cookie clicker.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The game is dead in my opinion.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The game is dead or is dying.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I can hardly even bring myself to launch the game.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 It sucks, and I play other games more often.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I love this game, but this dlc destroyed my trust in bungie.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The only reason I still have it is because of SGC.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 It doesn't help we are forced to play destiny 2 which is utterly and completely basically dead. Very very bad look for a community.
 </div>
 
@@ -430,7 +430,7 @@ It doesn't help we are forced to play destiny 2 which is utterly and completely 
 
 ## Games Members Are Actually Playing
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Mentioned Games (From Survey)
 
@@ -441,11 +441,11 @@ It doesn't help we are forced to play destiny 2 which is utterly and completely 
 - **Marathon** (anticipated)
 - **Various others**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The game is dead in my opinion. Myself and several others do link up and play BF, TFD and Warframe.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 More party nights like maybe a fall guys or destiny gambit night would be fun.
 </div>
 
@@ -457,7 +457,7 @@ More party nights like maybe a fall guys or destiny gambit night would be fun.
 
 ## The Timeline Question
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### How Urgent Is This?
 
@@ -467,15 +467,15 @@ More party nights like maybe a fall guys or destiny gambit night would be fun.
 
 **Evidence of Urgency:**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The entire focus of SGC being 'Greeners streaming server' is just not gonna work, with destiny dying... the only 2 options there are right now is to either adapt or die with it.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I don't want SGC to die off with destiny.
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 SGC needs to embrace being a community of people playing different games and working with that rather than trying to cling to a dying game and slowly dying with it.
 </div>
 
@@ -493,7 +493,7 @@ SGC needs to embrace being a community of people playing different games and wor
 
 ## What Success Looks Like
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### Vision for Multi-Gaming SGC
 
@@ -510,7 +510,7 @@ SGC needs to embrace being a community of people playing different games and wor
    - Future-proof structure
 
 3. **Friendships preserved**
-   <div class="quote-box">
+   <div class="quote-box" markdown="1">
    I don't want SGC to die off with destiny, I want to keep my close friends from here.
    </div>
    - Core motivation for most members
@@ -522,14 +522,14 @@ SGC needs to embrace being a community of people playing different games and wor
    - Destiny still included but not exclusive
 
 5. **Clear identity as gaming community**
-   <div class="quote-box">
+   <div class="quote-box" markdown="1">
    Make this a gaming community not a destiny 2 community.
    </div>
    - Welcoming to players of many games
    - United by community, not by game
 
 6. **Room for Destiny's potential return**
-   <div class="quote-box">
+   <div class="quote-box" markdown="1">
    If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games.
    </div>
    - Multi-gaming doesn't abandon Destiny
@@ -542,7 +542,7 @@ SGC needs to embrace being a community of people playing different games and wor
 
 ## Risks of NOT Evolving
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What Happens If SGC Stays Destiny-Only?
 
@@ -576,7 +576,7 @@ SGC needs to embrace being a community of people playing different games and wor
 - Eventually forced to close or merge
 - Waste of years of community building
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 The entire focus of SGC being 'Greeners streaming server' is just not gonna work, with destiny dying... the only 2 options there are right now is to either adapt or die with it.
 </div>
 
@@ -588,7 +588,7 @@ The entire focus of SGC being 'Greeners streaming server' is just not gonna work
 
 ## Risks of Evolving
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What Could Go Wrong With Multi-Gaming?
 
@@ -649,87 +649,6 @@ The entire focus of SGC being 'Greeners streaming server' is just not gonna work
 
 ---
 
-## Recommendations
-
-<div class="card">
-
-### Roadmap to Multi-Gaming SGC
-
-#### **Phase 1: IMMEDIATE (Month 1-2)**
-
-1. **Leadership Decision and Announcement**
-   - Acknowledge community feedback
-   - Commit to multi-gaming evolution
-   - Set clear vision and timeline
-   - Communicate boldly and honestly
-
-2. **Activity Requirements Reform**
-   - ANY game with SGC members counts toward activity
-   - Immediate policy change
-   - Retroactive grace period for recent inactives
-
-3. **POTW/POTM Expansion**
-   - Begin recognizing non-Destiny achievements
-   - Multi-gaming categories
-   - Show immediate shift in priorities
-
-4. **Multi-Gaming Event Calendar**
-   - Schedule weekly multi-gaming events
-   - Variety of games
-   - Equal billing with Destiny events
-
----
-
-#### **Phase 2: SHORT-TERM (Month 3-6)**
-
-5. **Discord Reorganization**
-   - Game-specific channels for popular titles
-   - Cross-game general channels
-   - Clear structure for multi-gaming
-
-6. **Multi-Gaming Division or Track**
-   - Official structure for multi-gaming participation
-   - Recruitment messaging updated
-   - Branding reflects evolution
-
-7. **Leadership Training**
-   - Prepare staff for multi-gaming management
-   - Identify game coordinators
-   - Empower delegation
-
-8. **Community Input**
-   - Survey for game preferences
-   - Let members guide which games to support
-   - Organic growth, not top-down mandates
-
----
-
-#### **Phase 3: MEDIUM-TERM (Month 6-12)**
-
-9. **Full Transition to Gaming Community**
-   - Rebrand as needed
-   - All systems support multi-gaming
-   - Destiny is one option among many
-
-10. **Recruitment Push**
-    - Attract members from other games
-    - Growth opportunity
-    - Fresh perspectives
-
-11. **Evaluate and Adapt**
-    - What's working?
-    - Which games have traction?
-    - Adjust based on data
-
-12. **Celebrate Success**
-    - Mark milestones
-    - Recognize community resilience
-    - Build new traditions
-
-</div>
-
----
-
 ## Critical Decision Point
 
 <div class="alert alert-critical">
@@ -759,7 +678,7 @@ The survey data answers *what* the community wants.
 
 The question for leadership is: **Will you listen?**
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 Thank you for this survey and for giving me a voice. When I felt like I didn't have one.
 </div>
 
@@ -773,7 +692,7 @@ Members gave their feedback because they believe it matters.
 
 ## Final Assessment
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What This Survey Revealed
 
@@ -788,7 +707,7 @@ Members gave their feedback because they believe it matters.
 
 ### The Path Forward
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 I don't want SGC to die off with destiny, I want to keep my close friends from here.
 </div>
 
@@ -822,7 +741,7 @@ They expressed love for SGC despite criticisms.
 
 Adapt. Evolve. Become the multi-gaming community members are begging for.
 
-**The future of SGC is in leadership's hands. But the community has shown you the way.**
+**The future of SGC is in leadership's hands. But the community has shown us the way.**
 
 </div>
 
