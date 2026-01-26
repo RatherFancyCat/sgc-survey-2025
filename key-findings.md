@@ -158,7 +158,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 </div>
 
-<div class="alert alert-warning">
+<div class="alert alert-warning" markdown="1">
 
 ### 4. Cultural Crisis: Cross-Clan Division
 
@@ -170,7 +170,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 </div>
 
-<div class="alert alert-warning">
+<div class="alert alert-warning" markdown="1">
 
 ### 5. Accountability Gap: Double Standards
 
