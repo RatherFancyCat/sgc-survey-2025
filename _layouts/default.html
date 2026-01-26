@@ -16,6 +16,7 @@
 
     <nav class="nav-bar">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Overview</a>
+      <a href="{{ '/key-findings' | relative_url }}" {% if page.url contains 'key-findings' %}class="active"{% endif %}>Key Findings</a>
       <a href="{{ '/demographics' | relative_url }}" {% if page.url contains 'demographics' %}class="active"{% endif %}>Demographics</a>
       <a href="{{ '/atmosphere' | relative_url }}" {% if page.url contains 'atmosphere' %}class="active"{% endif %}>Atmosphere</a>
       <a href="{{ '/leadership' | relative_url }}" {% if page.url contains 'leadership' %}class="active"{% endif %}>Leadership</a>
