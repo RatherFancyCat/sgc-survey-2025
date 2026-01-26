@@ -5,7 +5,7 @@ title: Key Findings
 
 # Key Findings
 
-<div class="alert alert-info">
+<div class="alert alert-info" markdown="1">
 This page summarizes the most critical insights from the SGC Community Survey 2025.
 </div>
 
@@ -13,13 +13,13 @@ This page summarizes the most critical insights from the SGC Community Survey 20
 
 The SGC community shows **strong in-clan bonds** with most members rating their clan experience highly (4-5/5). However, cross-clan interactions reveal more challenges, with elitism and division being recurring concerns.
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I just wanted to say that this is the first clan/community that I have truly enjoyed being part of, regardless of the ups and downs that have taken place over my years with this community."
 </div>
 
 ## ⚠️ Critical Issues Identified
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 <strong>URGENT:</strong> Multiple leadership concerns raised, particularly regarding favoritism, accountability, and specific admin behavior patterns.
 </div>
 
@@ -74,7 +74,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
   </div>
 </div>
 
-<div class="quote-box">
+<div class="quote-box" markdown="1">
 "I don't want SGC to die off with destiny, I want to keep my close friends from here. If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games, because SGC as a whole is amazing to me."
 </div>
 
@@ -122,7 +122,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ## Most Critical Findings
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 
 ### 1. Existential Crisis: Multi-Gaming Evolution
 
@@ -134,7 +134,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 </div>
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 
 ### 2. Leadership Crisis: Specific Behavioral Concerns
 
@@ -146,7 +146,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 </div>
 
-<div class="alert alert-critical">
+<div class="alert alert-critical" markdown="1">
 
 ### 3. Moderation Crisis: NSFW Content Failure
 
@@ -186,7 +186,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ## Positive Findings
 
-<div class="card">
+<div class="card" markdown="1">
 
 ### What's Working Well
 
@@ -226,7 +226,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ## Summary Assessment
 
-<div class="alert alert-info">
+<div class="alert alert-info" markdown="1">
 
 ### The State of SGC
 
@@ -244,7 +244,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ---
 
-<div class="card">
+<div class="card" markdown="1">
 
 ## Next Steps
 
