@@ -14,7 +14,7 @@ This page summarizes the most critical insights from the SGC Community Survey 20
 The SGC community shows **strong in-clan bonds** with most members rating their clan experience highly (4-5/5). However, cross-clan interactions reveal more challenges, with elitism and division being recurring concerns.
 
 <div class="quote-box" markdown="1">
-"I just wanted to say that this is the first clan/community that I have truly enjoyed being part of, regardless of the ups and downs that have taken place over my years with this community."
+"I just wanted to say that this is the first clan/community that I have truly enjoyed being part of, regardless of the ups and downs that have taken place over my years with this community. I know dealing with this many people and keeping things active is no small feat, and all the people who help keep it positive and active are a blessing to the community."
 </div>
 
 ## ⚠️ Critical Issues Identified
@@ -75,7 +75,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 </div>
 
 <div class="quote-box" markdown="1">
-"I don't want SGC to die off with destiny, I want to keep my close friends from here. If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games, because SGC as a whole is amazing to me."
+"I don’t want SGC to die off with destiny, I want to keep my close friends from here. That’s it. If destiny succeeds and revives itself which god I’m hoping it does. Id still love for other games, because SGC as a whole is amazing to me and is dear to me, for it to be I. The hands of bungie or destiny does not make me feel warm and fuzzy. So adding other games would benefit it for future proofing"
 </div>
 
 **Critical Finding:** Three-quarters of the community want SGC to evolve into a multi-gaming community. Members are staying for each other, not for Destiny.
@@ -126,11 +126,12 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ### 1. Existential Crisis: Multi-Gaming Evolution
 
-**Finding:** 75% of members want SGC to become a multi-gaming community.
+**Finding:** 75% of respondents want SGC to become a multi-gaming community.
 
-**Why It Matters:** Destiny 2 is declining. Members are already playing other games together but activity requirements force Destiny grinding. This creates resentment and will lead to attrition.
+**Why It Matters:** Destiny 2 is declining. Members are already playing other games together but activity requirements force Destiny grinding. This creates and has created already some resentment and is causing attrition.
 
-**Action Required:** Immediate policy reform to recognize multi-gaming activity and prevent community dissolution.
+**Potential Readjustment:** Immediate policy reform to recognize multi-gaming activity and prevent community dissolution. Immediate policy reform to recognize multi-gaming activity and prevent community dissolution.
+Immediate support for multi-gaming structures within clans and shifting towards more multi-gaming oriented community events.
 
 </div>
 
@@ -138,11 +139,11 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ### 2. Leadership Crisis: Specific Behavioral Concerns
 
-**Finding:** One admin (Mister Wrecked) received extensive negative feedback (~15-20% of respondents).
+**Finding:** A Shrouded Admin received extensive negative feedback (~15-20% of respondents).
 
 **Why It Matters:** Pattern of complaints about favoritism, power abuse, and poor attitude. Community trust in leadership is eroding.
 
-**Action Required:** Investigation and potential leadership restructuring to restore confidence.
+**Potential Readjustment:** Investigation of reports, leadership-level reflection and readjustment to restore confidence
 
 </div>
 
@@ -150,11 +151,11 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ### 3. Moderation Crisis: NSFW Content Failure
 
-**Finding:** Serious moderation failure in Apex clan affecting member mental health.
+**Finding:** Failure in moderation in certain clans resulting in hypersexualized chats that make members uncomfortable to the point where they either block people or consider leaving.
 
-**Why It Matters:** Rules not enforced, member driven away from clan channels. Staff allegedly supporting rule violations.
+**Why It Matters:** Rules not enforced, members driven away from clan channels. Staff seeming to support and take part in rule violations. Unfair preferential treatment.
 
-**Action Required:** Immediate investigation and consistent rule enforcement.
+**Potential Readjustment:** Staff should examine their clan environments and address issues immediately. Make it clear to members that clan chats and VCs should be a cozy space for ALL members. Enforcing SGC rules help maintain that space. Division Leaders to check in with Admins regarding this. 
 
 </div>
 
@@ -164,9 +165,9 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 **Finding:** 1.2 point gap between in-clan (4.4/5) and cross-clan (3.2/5) atmosphere ratings.
 
-**Why It Matters:** SGC operates as 20 separate clans, not one community. Elitism and division undermine the "mega-clan" concept.
+**Why It Matters:** SGC operates as 20 separate clans, not one community. On the one hand, it is clear that clan members seem to thrive in in-clan atmosphere. They are more at ease there. On the other hand, coming together as a community also supports and helps maintain a pleasant atmosphere in larger spheres such as LFG channels and activities.
 
-**Action Required:** Address elitism, create cross-clan opportunities, emphasize unified identity.
+**Potential Readjustment:** Encourage organic positive cross-clan interactions in LFG and community-wide events so people naturally get to know one another. Manufactured or forced cross-clan interactions are discouraged since it takes away members' safehavens in their own clans and historically, poaching accusations wind up causing bad blood between clan staff.
 
 </div>
 
@@ -174,11 +175,11 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ### 5. Accountability Gap: Double Standards
 
-**Finding:** Widespread perception that rules apply differently to staff vs members.
+**Finding:** Members believe that Staff Members can bypass or break rules without any repercussion, whilst actively enforcing rules on Members.
 
-**Why It Matters:** Erodes trust, discourages issue reporting, creates "us vs them" mentality.
+**Why It Matters:** This creates an environment of distrust between Members and Staff, ensures that our goal of "Communication is Key" does not get met, and creates a cycle of fighting to get a Staff position to do unto others what has been done to me.
 
-**Action Required:** Transparent enforcement standards and accountability for all, including leadership.
+**Potential Readjustment:** Establish set core of checks and balances // rules and directives, for Staff Members, including a system of Warnings, Demotion or Removal of Staff Positions. Visible by the community, and reportable by members and peers.
 
 </div>
 
@@ -238,7 +239,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 **Threats:** Destiny's decline, member attrition, leadership crisis, erosion of trust
 
-**Overall:** SGC has a strong foundation but faces critical crossroads. The community is worth saving, but urgent action is required on multiple fronts.
+**Overall:** SGC has a strong foundation but faces critical crossroads.
 
 </div>
 
