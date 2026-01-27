@@ -87,27 +87,26 @@ Respondents were given the choice to remain anonymous or state their name. The m
 |-----------|-----------|---------------------|
 | **BTSN** | Bastion | 15-18 |
 | **APEX** | Apex | 12-15 |
-| **VII** | VII (Seven) | 10-12 |
+| **VII** | VII | 10-12 |
 | **WOLF** | Wolves | 8-10 |
 | **FURY** | Fury | 8-10 |
 | **SLS** | Souls | 8-10 |
-| **RISE** | Rise/Phoenix | 6-8 |
-| **DGEN** | D-Gen | 6-8 |
+| **RISE** | Phoenix | 6-8 |
+| **DGEN** | Degenerate | 6-8 |
 | **SENT** | Sentinels | 5-7 |
-| **SHOT** | Shotgun | 5-7 |
+| **SHOT** | Outlaws | 5-7 |
 | **WRTH** | Wraiths | 4-6 |
 | **DEVL** | Devils | 3-5 |
 | **OMEN** | Omens | 2-4 |
-| **LGIN** | Legions | 2-3 |
+| **LGIN** | Legion | 2-3 |
 | **KOTR** | Knights | 1-2 |
 | **Other** | Various smaller clans | 5-8 |
 
 **Note:** Some respondents chose "I'd rather not specify" their clan
 
 **Participation Rate:**
-- Bastion, Apex, VII, and Wolves showed highest engagement
-- Good cross-section of clans represented
-- Some smaller/newer clans had limited participation
+- Bastion, Apex, VII, Wolves, Fury and Souls showed highest engagement
+- Good cross-section of clans
 
 </div>
 
@@ -136,7 +135,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 **1. Clan Closures/Disbandment** (Most Common)
 <div class="quote-box" markdown="1">
-"Celestials to then being absorbed into Wolves" - Member describing clan closure
+"Celestials (...) then became too small so was quickly absorbed into Wolves" - Member describing clan closure
 </div>
 
 <div class="quote-box" markdown="1">
@@ -154,7 +153,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 **3. Seeking Better Fit**
 <div class="quote-box" markdown="1">
-"I left Wolves for Apex, where I remain but as just a member, no staff roles" - Former Wolves officer
+"I left wolves, Joined apex, than took a break from d2 and joined wolves again" - Former Wolves officer
 </div>
 
 <div class="quote-box" markdown="1">
@@ -173,11 +172,6 @@ Respondents were given the choice to remain anonymous or state their name. The m
 
 <div class="quote-box" markdown="1">
 "Had someone be extremely hostile towards me and other clans mates" - Wolves departure
-</div>
-
-**6. Activity Requirements**
-<div class="quote-box" markdown="1">
-"Left Wolves Joined apex than took a break from d2 and joined wolves again" - Cycle due to activity pressure
 </div>
 
 **Common Paths:**
@@ -212,7 +206,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 </div>
 
 **Breakdown:**
-- **Members:** Majority, diverse perspectives from rank-and-file
+- **Members:** Majority, diverse perspectives
 - **Clan Officers:** Significant representation, frontline leadership view
 - **Clan Admins:** Several participated, clan-level leadership insights
 - **Mentors/Sherpas:** Teaching/helping role perspective
@@ -243,7 +237,7 @@ While not explicitly asked, some patterns emerged:
 - Rather Fancy Cat's EU stream noted by several respondents
 
 **Console References:**
-- Some clan history references to "Xbox clan" vs other platforms
+- Some clan history references to "Xbox clans" vs other platforms
 - Console-specific clans mentioned in historical context
 - "Console split" referenced by long-term members
 
@@ -272,9 +266,9 @@ While not explicitly asked, some patterns emerged:
 **⚠️ Limitations:**
 
 1. **Self-selection bias:** Most engaged members more likely to respond
-2. **Clan size variance:** Larger clans naturally have more responses
+2. **Clan size variance:** Larger or more discord/destiny active clans naturally have more responses
 3. **Recent joiners underrepresented:** Very new members (~5%) may not have formed full opinions
-4. **Some clans barely represented:** Smaller/newer clans had 1-2 responses
+4. **Some clans barely represented:** Less active clans had 1-2 responses
 
 **Overall Assessment:**
 
