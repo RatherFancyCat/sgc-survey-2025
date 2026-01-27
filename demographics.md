@@ -313,7 +313,7 @@ The demographic profile suggests:
 - **Community is invested:** Taking time for detailed survey shows they care about outcomes
 
 The voices in this survey represent the **core of SGC's community** - the long-term, engaged members who will determine whether SGC thrives or declines.
-
+Historically, the number of respondents to this survey are similar to the number of respondents in past SGC surveys.
 </div>
 
 <a href="atmosphere" class="btn">Next: Atmosphere Analysis →</a>
