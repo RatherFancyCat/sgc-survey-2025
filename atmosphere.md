@@ -56,7 +56,7 @@ I just wanted to say that this is the first clan/community that I have truly enj
 </div>
 
 <div class="quote-box" markdown="1">
-It's a very unpleasant atmosphere... It doesn't help we are forced to play destiny 2 which is utterly and completely basically dead.
+When I first joined the SGC it was excellent, but then the rapid decline hit. It’s a very unpleasant atmosphere and really don’t enjoy anything about it anymore like I did. It doesn’t help we are forced to play destiny 2 which is utterly and completely basically dead.
 </div>
 
 </div>
@@ -87,15 +87,11 @@ It's a very unpleasant atmosphere... It doesn't help we are forced to play desti
 - Clear indication that individual clans are doing well internally
 
 <div class="quote-box" markdown="1">
-My clan is super welcoming and friendly, I love them all!
+Sense joining VII it’s always felt very welcoming to other VII members and other clan members and other clans I feel they are welcoming
 </div>
 
 <div class="quote-box" markdown="1">
-The people in my clan are amazing and supportive. Best group I've ever been part of.
-</div>
-
-<div class="quote-box" markdown="1">
-VII has been nothing but welcoming and helpful since I joined.
+The subclans are a fantastic way for everyone to find their group of like minded individuals.
 </div>
 
 **Why In-Clan Works Well:**
@@ -108,7 +104,7 @@ VII has been nothing but welcoming and helpful since I joined.
 **Few Negative Experiences:**
 
 <div class="quote-box" markdown="1">
-Rise is barely active and just a few people talking everyday.
+Rise is barely active and just a few people talking everyday, and days where officers and admin wont a say shit
 </div>
 
 <div class="quote-box" markdown="1">
@@ -145,14 +141,14 @@ Sometimes being a part of SLS doesnt really feel very welcoming. Its full of hig
 - Only 39% rate cross-clan interactions positively
 - 39% have mixed feelings (neutral, inconsistent experiences)
 - 22% rate it as poor or very poor
-- **Gap of 1.1 points between in-clan (4.3) and cross-clan (3.2) scores**
+- **Gap of 1.2 points between in-clan (4.3) and cross-clan (3.2) scores**
 
 **Why Cross-Clan Struggles:**
 
 ### Issue #1: Elitism & Division
 
 <div class="quote-box" markdown="1">
-There are a large group of SGC members that tend to be incredibly elitist and will publicly mock other SGC members.
+There is a large group of SGC members that tend to be incredibly elitist and will publicly mock other SGC members
 </div>
 
 <div class="quote-box" markdown="1">
@@ -163,18 +159,10 @@ Several clans are not respectful towards members of SGC outside their own clan a
 I hate leaving the confines of where my clan is because everywhere else feels like hate towards me.
 </div>
 
-<div class="quote-box" markdown="1">
-We are a mega-clan, and yet it seems some admins seem to take the mentality of 'we are X' and want little to do with the rest of the community.
-</div>
-
 ### Issue #2: Cliquishness
 
 <div class="quote-box" markdown="1">
-Some people only want to play with people from their clan and don't really branch out.
-</div>
-
-<div class="quote-box" markdown="1">
-Cross clan has always been weird to me because we aren't just 1 clan we are like 20. So we have these groups that only know each other but rarely intermingle.
+There are many members that choose to stay in close knit groups rather than branching out and not put in the effort to meet new people.
 </div>
 
 ### Issue #3: Toxic Behavior
@@ -184,7 +172,7 @@ After this years clan wars it just feels hostile or maybe just a little bit toxi
 </div>
 
 <div class="quote-box" markdown="1">
-Was alienated by clanmates and after the switch even more so by them.
+I was alienated by clanmates and after the switch even more so by them
 </div>
 
 ### Issue #4: Structural Barriers
@@ -194,17 +182,7 @@ I think ever clan needs at least 1 VC that is open to all players, especially in
 </div>
 
 <div class="quote-box" markdown="1">
-The bastion requirements... Makes the clan seem elitist.
-</div>
-
-**Positive Cross-Clan Experiences (Minority):**
-
-<div class="quote-box" markdown="1">
-I've had nothing but positive interactions with other clans.
-</div>
-
-<div class="quote-box" markdown="1">
-Everyone I've played with from other clans has been great.
+The in clan requirements of playing with bastion members first to make sure that part is taking care of before playing with sgc others is tough. Makes the clan seem elitist
 </div>
 
 </div>
@@ -245,10 +223,12 @@ Everyone I've played with from other clans has been great.
 **The Paradox:**
 - Members LOVE their individual clans (4.4/5)
 - Members struggle with cross-clan interactions (3.2/5)
-- This 1.2 point gap reveals SGC operates more like **20 separate clans** than **1 unified community**
+- The 1.2 gap between in-clan and cross-clan reveals that SGC clans are successful in creating great atmospheres for their members.
+- More work could be put into creating unifying events and moderating public spaces/interactions so members from different clans can come together organically and have positive experiences.
 
 <div class="quote-box" markdown="1">
-My clan specifically is amazing. The broader SGC... not so much.
+My overall stay in SGC has been pleasant — especially within my own clan.
+The experience gets trickier when interacting across the broader SGC community, where you encounter a wide range of personalities.
 </div>
 
 </div>
@@ -263,51 +243,33 @@ My clan specifically is amazing. The broader SGC... not so much.
 
 **Highly Praised:**
 
-**VII (Seven)**
-<div class="quote-box" markdown="1">
-VII has been nothing but welcoming and helpful since I joined.
-</div>
+**VII**
 - Consistently positive feedback
 - Welcoming atmosphere noted multiple times
 - Active and engaged
 
 **Apex**
-<div class="quote-box" markdown="1">
-Apex is great, very active and friendly.
-</div>
 - High activity levels
 - Friendly atmosphere
 - *Note: NSFW content issue raised by one member*
 
 **Wolves**
-<div class="quote-box" markdown="1">
-The wolves are an amazing clan with great people.
-</div>
 - Strong community bonds
 - Good leadership mentions
 - Some past drama mentioned but generally positive
 
 **Bastion**
-<div class="quote-box" markdown="1">
-Bastion has amazing people and I love being part of it.
-</div>
 - Dedicated members
 - Strong skill level
 - *Note: Activity requirements seen as elitist by some outside clan*
 
 **Omens**
-<div class="quote-box" markdown="1">
-I love being a part of the SGC. I am thankful that to have been trusted with the responsibility of being OMENs admin.
-</div>
 - Smaller but tight-knit
 - Leadership appreciation
 
 ### Clans with Concerns
 
 **Rise/Phoenix**
-<div class="quote-box" markdown="1">
-The clan is dead, and there is zero activity from the officers. They don't even touch anything destiny related.
-</div>
 <div class="quote-box" markdown="1">
 Rise is barely active and just a few people talking everyday.
 </div>
@@ -327,15 +289,12 @@ Sometimes being a part of SLS doesnt really feel very welcoming. Its full of hig
 <div class="quote-box" markdown="1">
 My clan seems very unengaged across all roles at this time.
 </div>
-<div class="quote-box" markdown="1">
-Wish people played other games together too.
-</div>
 - Engagement concerns
 - Activity wishes
 
 **Wraiths**
 <div class="quote-box" markdown="1">
-We don't really trust the word of the SGC admins anymore and typically avoid them unless absolutely necessary.
+As of my stance and my clans, we don’t really trust the word of the SGC admins anymore and typically avoid them unless absolutely necessary.
 </div>
 - Trust issues with broader SGC leadership
 - Operates somewhat independently
@@ -358,7 +317,7 @@ I just wanted to say that this is the first clan/community that I have truly enj
 
 **2. Welcoming Nature**
 <div class="quote-box" markdown="1">
-SGC accommodated me and many of my friends after disagreements with the previous community we were at with an open arm.
+SGC accommodated me and many of my friends after disagreements with the previous community we were at with an open arm and I'm grateful for that.
 </div>
 
 **3. Gratitude**
@@ -380,7 +339,7 @@ There are a large group of SGC members that tend to be incredibly elitist and wi
 
 **3. Declining State**
 <div class="quote-box" markdown="1">
-It's a very unpleasant atmosphere... having wrecked in that form of power will completely crush the SGC.
+When I first joined the SGC it was excellent, but then the rapid decline hit. It’s a very unpleasant atmosphere and really don’t enjoy anything about it anymore like I did.
 </div>
 
 **4. Forced Destiny Focus**
@@ -401,7 +360,7 @@ It doesn't help we are forced to play destiny 2 which is utterly and completely 
 1. **SGC operates as 20 mini-communities, not 1 unified community**
    - In-clan: 4.3/5
    - Cross-clan: 3.2/5
-   - Gap of 1.1 points is significant
+   - Gap of 1.2 points is significant
 
 2. **Members love their clan, tolerate SGC**
    - Individual clan: 4.4/5 (HIGHEST)
