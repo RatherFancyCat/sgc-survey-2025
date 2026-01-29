@@ -34,7 +34,7 @@ Respondents were given the choice to remain anonymous or state their name. The m
 **Breakdown:**
 - **Anonymous:** ~60-65% ("I'll keep myself Anonymous")
 - **Named:** ~35-40% (Provided name or nickname)
-- **Role Redacted:** Some chose to redact their role but provide name or vice versa
+- **Redacted Information:** Some respondents chose to leave their name, role and clan, but as per anonymity sake, all identifying information was redacted prior to data handling.
 
 **Significance:** High anonymity rate suggests members felt comfortable providing candid feedback, including criticism of leadership.
 
