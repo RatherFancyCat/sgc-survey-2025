@@ -46,7 +46,7 @@ Xia is amazing no doubt there.
 Xia hardest working person in staff.
 </div>
 
-**Pattern:** Universally praised, accessible, responsive, hardworking
+**General Sentiment:** Universally praised, accessible, responsive, hardworking
 
 ---
 
@@ -61,7 +61,7 @@ Fancy cat is super easy to talk to.
 Rather Fancy best sgc streamer ever is a 5 for me super duper approachable.
 </div>
 
-**Pattern:** Approachable, friendly, positive presence
+**General Sentiment:** Approachable, friendly, positive presence
 
 ---
 
@@ -76,31 +76,29 @@ Devilito is pretty awesome - Very approachable.
 Devilito is the reason I knew I won the shaker.
 </div>
 
-**Pattern:** Helpful, communicative, follows through
+**General Sentiment:** Helpful, communicative, follows through
 
 ---
 
 #### **Other Well-Rated Leaders:**
 
-**MoonChild (Admin)**
-<div class="quote-box" markdown="1">
-Moon is great, super approachable and helpful.
-</div>
-
-**Destiny Flavor (Admin)**
-<div class="quote-box" markdown="1">
-Destiny Flavor is very approachable and fair.
-</div>
-
-**Saddistic (Division Leader)**
+**Saddistic Demon (Division Leader)**
 <div class="quote-box" markdown="1">
 Saddistic is awesome, always willing to help.
+</div>
+However, there were concerns...
+<div class="quote-box" markdown="1">
+(...) saddistic needs to be more open to change (...)
 </div>
 
 **Greener (Founder/Streamer)**
 - Mixed feedback, but generally seen as approachable
 - Time constraints mentioned by several members
 - Streaming focus sometimes limits availability
+
+<div class="quote-box" markdown="1">
+Greener is great dude just busy, (...)
+</div>
 
 </div>
 
