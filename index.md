@@ -38,15 +38,13 @@ Privacy and anonymity were key.
 - [Future Direction](#)
 - [Detailed Feedback](#)
 
-## What Happens Next?
+## How This Data Is Presented:
 <div class="alert alert-critical" markdown="1">
-**How This Data Is Presented:**
 This report contains data from the survey, but mentions of specific people have been obscured to protect the anonymity of SGC members. The intent is to examine what things we're doing right and what things need readjustment, and having specific individuals mentioned in a report that goes out to the whole server would only serve to create opportunities for humiliation and passing blame.
 
 Rest assured, Greener himself received a copy of your voluntary feedback without these redactions since for him, it IS essential to know specifics.
 
 Certain feedback on specific clans or mention of issues with specific clan mates will be distributed to the appropriate clan admins via their Division Leaders so that they maybe investigated and addressed promptly. Some pressing issues have in fact already been directed to clan admins in this manner in cases that seemed urgent.
-
 </div>
 
 ## What Happens Now?
@@ -64,7 +62,6 @@ I, Rather Fancy Cat, want to personally thank each person who filled out the Sur
 This took a long time to be released as I stated to the public.
 
 Thank you all so much!
-
 </div>
 
 > **Alert**: Survey conducted October 2025  
