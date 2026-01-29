@@ -45,13 +45,11 @@ Leadership will be meeting to reflect on the survey results and to create a plan
 
 We understand and respect that each member's concern is urgent, however since not everything can be addressed at once, we ask for your patience as we prioritize the most critical feedback and work our way from there.
 
-Your clan staff will be looped in on plans of actions and Division Leaders will work closely with admins to ensure they have support where needed. As always, we will be taking feedback from clan staff so if at any moment you have concerns or questions, please pass them to your admin as usually they will know the answer or have direct contact with their Division Leader who can help with clarification. This chain is to make sure we are all on the same page - SGC upper leadership, clan leadership, and members alike.
+Your clan staff will be looped in on plans of actions and Division Leaders will work closely with admins to ensure they have support where needed. As always, we will be taking feedback from clan staff so if at any moment you have concerns or questions, please pass them to your admin since usually they will know the answer or have direct contact with their Division Leader who can help with clarification. This chain is to make sure we are all on the same page - SGC upper leadership, clan leadership, and members alike, as we move forward to better and to secure the future of the SGC. 
 </div>
 
-
+##A Personal Thank you for you.
 <div class="alert alert-warning">
-**A Personal Thank you for you.**
-
 I, Rather Fancy Cat, want to personally thank each person who filled out the Survey back in October, but I also want to apologize to everyone.
 This took a long time to be released as I stated to the public.
 
