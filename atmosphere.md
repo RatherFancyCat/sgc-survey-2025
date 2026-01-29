@@ -386,37 +386,4 @@ It doesn't help we are forced to play destiny 2 which is utterly and completely 
 
 ---
 
-## Recommendations
-
-<div class="card" markdown="1">
-
-### To Improve Cross-Clan Atmosphere
-
-1. **Address Elitism Directly**
-   - Clear community standards
-   - Enforcement of respectful behavior across clans
-   - Leadership modeling inclusive behavior
-
-2. **Create Cross-Clan Opportunities**
-   - More collaborative events (not competitive)
-   - Open voice channels in each clan
-   - Cross-clan mentorship programs
-
-3. **Reduce Structural Barriers**
-   - Standardize activity requirements across clans
-   - Make multi-gaming count toward activity
-   - Encourage clan-hopping for events
-
-4. **Emphasize "One SGC" Identity**
-   - Reinforce mega-clan concept
-   - Celebrate cross-clan successes
-   - Reduce "us vs them" mentality
-
-5. **Monitor and Act on Toxic Behavior**
-   - Don't let elitism go unchecked
-   - Public mockery should have consequences
-   - Create safe reporting mechanisms
-
-</div>
-
 <a href="leadership" class="btn">Next: Leadership Analysis →</a>
