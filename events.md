@@ -137,9 +137,10 @@ I feel like it should be in the middle. Where we can play Destiny, but also play
 </div>
 
 <div class="alert alert-warning" markdown="1">
-Concerns regarding SGC moving towards a Multi-Game Community were expressed by multiple respondents. These are exposed on the "Future Direction" Tab of the Survey Results.
+Concerns regarding SGC moving towards a Multi-Game Community were expressed by multiple respondents. 
+These are talked about and deliberated on the "Future Direction" Tab of the Survey Results, including SGC Members quotes regarding it.
   
-<a href="future-direction" class="btn">Future Direction →</a>
+<a href="future-direction" class="btn">Future Direction</a>
 </div>
 
 
