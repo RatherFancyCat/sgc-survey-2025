@@ -28,22 +28,23 @@ Members provided feedback on SGC's community events, including Clan Wars, POTW/P
 
 ---
 
-## Clan Wars - Post-Mortem Analysis
+## Clan Wars - Feedback
 
 <div class="card" markdown="1">
 
-### Overall Assessment: **FAILED EVENT**
+### Overall Assessment: **Not Well-Received**
 
 <div class="alert alert-critical" markdown="1">
-<strong>CRITICAL:</strong> Clan Wars is the most negatively mentioned event in the survey. Multiple members called for it to never return.
+Clan Wars was the most negatively mentioned event in the survey.
 </div>
 
 ### Frequency of Negative Feedback
-**Very High** - Appeared in ~20% of open-ended responses
+**Very High**
+Appeared in ~20% of open-ended responses
 
 ### Primary Issues
 
-#### **1. Mixed Messaging - Competition vs Community Building**
+#### **1. Conflicting Goals - Competition vs Community Building**
 
 <div class="quote-box" markdown="1">
 Clan Wars seemed like an event that would be something that would have the Clans duking it out in the spirit of competition and then next thing you know we have the event organizer coming in and telling us that it was meant to be a community building event. Not a competition. What a joke.
@@ -57,8 +58,6 @@ Clan Wars is such a bad idea of an event if you want to have the community come 
 Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat and makes me think that Wrecked is being a sanctimonious prick about it.
 </div>
 
-**Analysis:** Event was marketed as competition, then organizers got upset when people competed seriously. Fundamental contradiction in event design.
-
 ---
 
 #### **2. Burnout and Mandatory Grinding**
@@ -71,8 +70,6 @@ The most unfun one because it pretty much forces people to keep grinding the gam
 Clan wars was a joke NEVER should have returned more often then not these events are big L's.
 </div>
 
-**Analysis:** Event structure required excessive time commitment, pushing members beyond healthy engagement levels.
-
 ---
 
 #### **3. Created Hostility Between Clans**
@@ -80,8 +77,6 @@ Clan wars was a joke NEVER should have returned more often then not these events
 <div class="quote-box" markdown="1">
 After this years clan wars it just feels hostile or maybe just a little bit toxic seeing what certain clans did.
 </div>
-
-**Analysis:** Instead of building community, event damaged cross-clan relationships and created lasting resentment.
 
 ---
 
@@ -95,24 +90,11 @@ Clan Wars is such a bad idea of an event if you want to have the community come 
 Clan wars was a joke NEVER should have returned.
 </div>
 
-**Analysis:** Return of event was poorly received. Members remember previous negative experiences.
-
----
-
-### Member Suggestions for Future (If Clan Wars Returns)
-
-<div class="quote-box" markdown="1">
-Maybe have it being tied to one activity a week with teams who are already made up so those people in particular can represent the clan... That way you can control who wants to participate.
+<div class="alert alert-warning" markdown="1">
+Clan Wars was considered by the community initially a good idea of an event. A friendly competition between clans.
+However, due to its competitive nature, certain clans raised the bar to the point where members felt the demands on them were unreasonable and unrealistic. It became a mandatory list of "To-Do's", rather than a fun event to voluntary partake in. 
+Instead of building community, event damaged cross-clan relationships and created lasting resentment.
 </div>
-
-**Recommended Approach:**
-- Opt-in teams rather than clan-wide requirement
-- Limited time commitment (one activity per week)
-- Pre-formed teams so non-participants aren't pressured
-- Clear upfront whether it's competitive or collaborative
-
-### Verdict: **DISCONTINUE OR COMPLETELY REDESIGN**
-
 </div>
 
 ---
@@ -123,12 +105,12 @@ Maybe have it being tied to one activity a week with teams who are already made 
 
 ### Player of the Week/Month Stream Feedback
 
-**Overall Reception:** Mixed to Positive
+**Overall Reception:** Mixed
 
 ### Positive Aspects
 
-- Recognition for community members
-- Regular community gathering point
+- Recognition for community members is appreciated
+- Respondents enjoyed having a regular community gathering point
 - Prize giveaways appreciated
 
 ### Concerns Raised
@@ -139,27 +121,27 @@ Maybe have it being tied to one activity a week with teams who are already made 
 Speed up the results, it shouldn't be greener talking about giving our money away to them for 2 hours and than 5 mins of results. It's less of a POTW OR POTM stream more of a hey donate, hey do this, I need money PLEASE.
 </div>
 
-**Issue:** Stream feels donation-focused rather than community-recognition-focused. Results are rushed, donation requests are lengthy.
+**Pain Point:** Stream feels lengthy and unbalanced as far as content. Recognition is no longer the main focus. Asks for donation or support in other ways now take up a larger portion. These are normally fine to include, however, some respondents seem to feel that it has gotten to the point where the whole thing can seem disingenuous rather than a fun community interaction.
 
 **Suggested Fix:**
 - Frontload the POTW/POTM announcements and recognition
-- Reduce donation request time
+- Reduce non community-related content time
 - Balance content better
 
 ---
 
-#### **2. Relevance in Dying Game**
+#### **2. Destiny Doesn't Cut It Anymore**
 
 <div class="quote-box" markdown="1">
-Stop with coping about it, accept reality and put that effort into something that will matter. (re: Destiny-focused content)
+I feel like it should be in the middle. Where we can play Destiny, but also play other games with clanmates
 </div>
 
-**Issue:** POTW/POTM is Destiny-focused in a community moving beyond Destiny.
+<div class="alert alert-warning" markdown="1">
+Concerns regarding SGC moving towards a Multi-Game Community were expressed by multiple respondents. These are exposed on the "Future Direction" Tab of the Survey Results.
+  
+<a href="future-direction" class="btn">Future Direction →</a>
+</div>
 
-**Suggested Fix:**
-- Expand to multi-gaming achievements
-- Recognize non-Destiny accomplishments
-- Adapt to community's evolving interests
 
 ---
 
