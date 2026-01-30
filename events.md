@@ -130,7 +130,17 @@ Speed up the results, it shouldn't be greener talking about giving our money awa
 
 ---
 
-#### **2. Destiny Doesn't Cut It Anymore**
+#### **2. Timezone Limitations**
+
+- Some members can't attend due to timezone differences
+- EU members particularly affected
+- Rather Fancy Cat's EU streams noted as alternative
+
+</div>
+
+---
+
+#### **3. Destiny Only Content Doesn't Cut It Anymore**
 
 <div class="quote-box" markdown="1">
 I feel like it should be in the middle. Where we can play Destiny, but also play other games with clanmates
@@ -142,23 +152,6 @@ These are talked about and deliberated on the "Future Direction" Tab of the Surv
   
 <a href="future-direction" class="btn">Future Direction</a>
 </div>
-
-
----
-
-#### **3. Timezone Limitations**
-
-- Some members can't attend due to timezone differences
-- EU members particularly affected
-- Rather Fancy Cat's EU streams noted as alternative
-
-**Suggested Fix:**
-- Rotate stream times occasionally
-- Post highlights/VODs with timestamps
-- Consider multiple regional streams
-
-</div>
-
 ---
 
 ## Podcast Feedback
@@ -167,7 +160,7 @@ These are talked about and deliberated on the "Future Direction" Tab of the Surv
 
 ### SGC Podcast Reception
 
-**Overall Reception:** Low to Mixed
+**Overall Reception:** Low Interest
 
 ### Primary Concerns
 
@@ -181,31 +174,21 @@ Stop with coping about it, accept reality and put that effort into something tha
 If was like the Shrouded version of Datto or interactive thing for people, podcasts would make sense.
 </div>
 
-**Issue:** Podcast about dying game feels like denial rather than adaptation. Content doesn't match community needs.
-
 ---
 
 #### **2. Lack of Interactive Element**
 
 <div class="quote-box" markdown="1">
-If was like the Shrouded version of Datto or interactive thing for people, podcasts would make sense.
-</div>
-
-**Issue:** Podcast is one-directional. Community wants to participate, not just listen.
-
----
-
-### Member Suggestion
-
-<div class="quote-box" markdown="1">
 It would be great to combine the POTW streams and the podcast, creating a hybrid experience that includes a dedicated segment for live interaction with viewers.
 </div>
 
-**Recommended Approach:**
-- Merge podcast with POTW stream for efficiency
-- Add live Q&A segments
-- Include community guests
-- Diversify topics beyond Destiny
+---
+
+### **3. Low Quality**
+
+<div class="quote-box" markdown="1">
+I like the podcasts but could be improved a bit.
+</div>
 
 </div>
 
@@ -312,45 +295,6 @@ More party nights like maybe a fall guys or destiny gambit night would be fun.
 
 ---
 
-## Event Suggestions by Category
-
-<div class="card" markdown="1">
-
-### Teaching/Learning Events
-- ✅ Zero to Hero (Raids, Dungeons, PvP)
-- ✅ Triumph/Seal completion runs
-- ✅ Build crafting workshops
-- ✅ New player orientation raids
-
-### Casual/Fun Events
-- ✅ Hide and Seek
-- ✅ Gambit private matches
-- ✅ Party game nights (Fall Guys, Among Us, etc.)
-- ✅ Fashion shows/screenshot contests
-- ✅ Racing/Sparrow events
-
-### Collaborative Events
-- ✅ Community-wide raid days
-- ✅ Cross-clan triumph pushes
-- ✅ Charity streams
-- ✅ Multi-clan dungeon marathons
-
-### Competitive Events (Use Cautiously)
-- ⚠️ Private match tournaments (opt-in only)
-- ⚠️ Speedrun competitions (individual, not clan-based)
-- ⚠️ PvP tournaments (skill-bracketed)
-- ❌ **Clan Wars** (avoid entirely or complete redesign)
-
-### Multi-Gaming Events
-- ✅ Game nights in other titles
-- ✅ New game launch parties
-- ✅ Multi-game tournaments
-- ✅ Cross-game achievement challenges
-
-</div>
-
----
-
 ## What Makes Events Successful?
 
 <div class="card" markdown="1">
@@ -376,16 +320,17 @@ More party nights like maybe a fall guys or destiny gambit night would be fun.
 - No mixed messaging
 - Members know what they're signing up for
 - Goals are transparent
+- Rules are consistant and applied universally
 
 **✅ Reasonable Time Commitment**
-- Event doesn't dominate entire week
+- Event shouldn't be considered as a "full-time job"
 - Respects members' time
 - Can participate casually
 
 **✅ Cross-Clan Mixing**
-- Breaks down clan silos
+- Breaks down clan barriers
 - Builds broader community connections
-- Reduces elitism
+- Reduces elitism and dispels apprehension
 
 **✅ Fun and Lighthearted**
 - Not everything needs prizes
