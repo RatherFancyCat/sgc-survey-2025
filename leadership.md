@@ -127,6 +127,7 @@ Sherpas are a breed all their own, and the lead sherpas personify that. It takes
 <div class="quote-box" markdown="1">
 (...)I speak with Fallen regularly, on a personal level he is a nice guy and easy-going person, as a sherpa, I had the chance to attend few runs with him and he was very patient in teaching and ensuring that the player who needs to be taught actually digested the knowledge given to him.
 </div>
+</div>
 ---
 
 <div class="card" markdown="1">
