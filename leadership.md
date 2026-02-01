@@ -93,11 +93,10 @@ Thax is always completely receptive to anything I have to say, helpful with any 
 <div class="quote-box" markdown="1">
 Xia is a great person she is always there to help and i love how she manges the clans
 </div>
-
+</div>
 ---
 
 <div class="card" markdown="1">
-
 ### Positive Feedback for Leadership
 
  - Some respondents find certain leaders approachable and enjoy interacting with them.
@@ -111,11 +110,11 @@ Xia is a great person she is always there to help and i love how she manges the 
 ---
 
 #### **What about Sherpas?**
-
+<div class="alert alert-success" markdown="1">
 Sherpas are a breed all their own, and the lead sherpas personify that. It takes a certain kind of person to learn how to do something and then be willing to teach other people.
 Our interactions with the Lead Sherpas tend to be limited unless someone formally requests a sherpa run. This creates a gap in accessibility, specifically for clan members who only need refreshers on specific raids. 
 A possible solution would be to give lead sherpas access to each clan’s raiding schedule or LFG activity, which would allow them to proactively identify opportunities to assist and offer guidance to players who may be struggling/looking to improve.
-
+</div>
 ---
 
 <div class="card" markdown="1">
