@@ -158,11 +158,11 @@ body {
 
 // Closing quote mark and attribution
 .quote-box::after {
-    content: '"\A— SGC Member';
+    content: '"';
     white-space: pre;
-    font-size: 1rem;
+    font-size: 4rem;
     color: var(--accent-orange);
-    opacity: 0.8;
+    opacity: 0.4;
     display: block;
     text-align: right;
     margin-top: 0.75rem;
