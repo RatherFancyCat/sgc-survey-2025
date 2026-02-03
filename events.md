@@ -354,7 +354,7 @@ Clan Wars seemed like an event that would be something that would have the Clans
 </div>
 
 <div class="quote-box" markdown="1">
-Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat and makes me think that Wrecked is being a sanctimonious prick about it.
+Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat (...)
 </div>
 
 </div>
