@@ -347,8 +347,6 @@ More party nights like maybe a fall guys or destiny gambit night would be fun.
 
 ### Specific Concerns About Event Leadership
 
-**Mister Wrecked (Primary Event Organizer):**
-
 Multiple complaints about event organization and handling:
 
 <div class="quote-box" markdown="1">
@@ -358,48 +356,6 @@ Clan Wars seemed like an event that would be something that would have the Clans
 <div class="quote-box" markdown="1">
 Competitive events are good and all but the way Clan Wars got handled and was advertised just fell flat and makes me think that Wrecked is being a sanctimonious prick about it.
 </div>
-
-**Pattern:** Event design and messaging problems linked to specific organizer. Consider:
-- Rotating event organizers
-- Community input on event design
-- Multiple people planning events
-- Feedback loops during planning phase
-
-</div>
-
----
-
-## Event Calendar Suggestions
-
-<div class="card" markdown="1">
-
-### Recommended Event Mix
-
-**Weekly:**
-- POTW Stream (with adjustments noted above)
-- Casual game nights (rotating games)
-- Teaching events (Zero to Hero series)
-
-**Bi-Weekly:**
-- Cross-clan collaborative events
-- Private match fun competitions
-- Multi-gaming events
-
-**Monthly:**
-- POTM Stream
-- Special themed events
-- Community challenges
-- New game launches (as they happen)
-
-**Quarterly:**
-- Major community gatherings
-- Charity events
-- Season celebrations
-
-**NEVER:**
-- Clan Wars (as currently designed)
-- Mandatory participation events
-- Overly competitive clan vs clan events
 
 </div>
 
@@ -412,7 +368,7 @@ Competitive events are good and all but the way Clan Wars got handled and was ad
 ### The Balance Challenge
 
 <div class="alert alert-warning" markdown="1">
-<strong>TENSION:</strong> Community wants to move beyond Destiny, but most established events are Destiny-focused.
+<strong>Common Opinion:</strong> Respondents believe that moving beyond Destiny is a good path, but so far most established events are Destiny-focused.
 </div>
 
 **Current Reality:**
@@ -426,57 +382,11 @@ Competitive events are good and all but the way Clan Wars got handled and was ad
 - Recognition for non-Destiny accomplishments
 - Content relevant to games they're actually playing
 
-**Recommended Shift:**
-- Gradually introduce multi-gaming recognition in POTW/POTM
-- Theme some weeks around other games
-- Create parallel event tracks
-- Don't abandon Destiny entirely, but diversify
-
 <div class="quote-box" markdown="1">
 I like having some of the community games be on other games, but to play those I have to also play all the time on destiny to stay in the clan. Just makes it hard to enjoy other games.
 </div>
 
-**This quote captures the tension:** Members want to participate in SGC events for other games without jeopardizing their clan membership.
-
-</div>
-
----
-
-## Key Findings Summary
-
-<div class="alert alert-info" markdown="1">
-
-### Critical Insights
-
-1. **Clan Wars must be discontinued or completely redesigned**
-   - Most negatively received event
-   - Created lasting damage to community
-   - Mixed messaging and poor execution
-
-2. **Members prefer collaborative over competitive events**
-   - Zero to Hero events praised
-   - Community wants to help each other
-   - Competition creates division
-
-3. **POTW/POTM streams need rebalancing**
-   - Too donation-focused
-   - Rush through actual recognition
-   - Should expand beyond Destiny
-
-4. **Podcast lacks relevance and interactivity**
-   - Destiny focus feels outdated
-   - One-directional format
-   - Consider merging with other content
-
-5. **Multi-gaming events urgently needed**
-   - Align events with community evolution
-   - Recognize non-Destiny achievements
-   - Don't force Destiny participation for other games
-
-6. **Event organization needs reform**
-   - Current organizer has credibility issues
-   - Community input in planning phase
-   - Better communication and transparency
+Members want to participate in SGC events for other games without jeopardizing their clan membership.
 
 </div>
 
