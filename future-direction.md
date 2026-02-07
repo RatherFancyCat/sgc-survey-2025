@@ -77,10 +77,6 @@ SGC needs to embrace being a community of people playing different games and wor
 Make this a gaming community not a destiny 2 community.
 </div>
 
-<div class="quote-box" markdown="1">
-Make this a gaming community not a destiny 2 community and get wrecked out of power it's bad for business!
-</div>
-
 ---
 
 ### Preserving Community, Not the Game
@@ -97,7 +93,7 @@ The only reason I still have it [Destiny] is because of SGC.
 I can hardly even bring myself to launch the game.
 </div>
 
-**Key Insight:** Members are staying for **each other**, not for Destiny. The community has transcended the game.
+**Key Insight:** Members are staying for each other, not for Destiny. The community has transcended the game.
 
 ---
 
@@ -115,7 +111,7 @@ It sucks, and I play other games more often. I hope it changes.
 Wish people played other games together too.
 </div>
 
-**Reality Check:** Members are **already** playing other games together. SGC policy just hasn't caught up to member behavior.
+**Reality Check:** Members are already playing other games together. SGC policy just hasn't caught up to member behavior.
 
 ---
 
@@ -137,7 +133,7 @@ I wish that there was a way for us to track/count time spent in games if we are 
 I like the group in Bastion, I just wish it didn't have its own set of participation rules that have to be met each week before you play with other sgc communities.
 </div>
 
-**The Paradox:** SGC hosts multi-gaming events, but activity requirements force Destiny grinding. Members feel trapped between what they want to do (play other games with SGC friends) and what they must do (play Destiny to keep clan membership).
+**The Paradox:** Activity requirements force Destiny grinding. Members feel trapped between what they want to do (play other games with SGC friends) and what they must do (play Destiny to keep clan membership or climb the leaderboards of POTW/POTM).
 
 ---
 
@@ -159,7 +155,7 @@ I love this game, but this dlc destroyed my trust in bungie.
 Stop with coping about it, accept reality and put that effort into something that will matter.
 </div>
 
-**Blunt Assessment:** Multiple members describe Destiny 2 as "dead" or "dying." Continuing to tie SGC's identity exclusively to Destiny is seen as suicidal.
+**Blunt Assessment:** Multiple members describe Destiny 2 as a "dying game". Continuing to tie SGC's identity exclusively to Destiny is seen as an overall bad decision.
 
 </div>
 
@@ -184,12 +180,7 @@ Stop with coping about it, accept reality and put that effort into something tha
 **3. Hope for Destiny's Recovery**
 - Some believe Bungie can turn it around
 - Future DLCs might revive interest
-- Don't abandon during rough patch
-
-**4. Fear of Fragmentation**
-- Multi-gaming might scatter community
-- Risk losing cohesion
-- "Jack of all games, master of none"
+- Don't abandon during rough patches or content drought
 
 ---
 
@@ -199,7 +190,7 @@ Stop with coping about it, accept reality and put that effort into something tha
 <div class="quote-box" markdown="1">
 SGC as a whole is amazing to me and is dear to me, for it to be in the hands of bungie or destiny does not make me feel warm and fuzzy.
 </div>
-- Identity is **the people**, not the game
+- Identity is the people that make the community, not the game
 - History doesn't require stagnation
 - Evolution preserves what matters (friendships)
 
@@ -207,7 +198,7 @@ SGC as a whole is amazing to me and is dear to me, for it to be in the hands of 
 <div class="quote-box" markdown="1">
 Myself and several others do link up and play BF, TFD and Warframe.
 </div>
-- Already happening organically
+- Already happening organically in certain clans
 - Just needs official recognition
 - Don't need to manage everything centrally
 
@@ -215,91 +206,15 @@ Myself and several others do link up and play BF, TFD and Warframe.
 <div class="quote-box" markdown="1">
 If destiny succeeds and revives itself which god I'm hoping it does. Id still love for other games.
 </div>
-- Multi-gaming doesn't abandon Destiny
+- Multi-gaming doesn't abandon Destiny for good
 - Keeps door open for Destiny's return
-- But doesn't bet entire community on it
-
-**Re: Fear of Fragmentation**
-- Current system already fragments (20 separate clans)
-- Shared non-Destiny games might actually increase unity
-- Activity requirements currently force fragmentation (can't play together)
+- Just doesn't bet entire community effort on it
 
 </div>
 
 ---
 
-## What Multi-Gaming Could Look Like
-
-<div class="card" markdown="1">
-
-### Proposed Models
-
-#### **Model 1: Destiny+ (Gentle Evolution)**
-
-**Structure:**
-- Destiny remains "primary" game
-- Official support for 2-3 other major games
-- Activity requirements include non-Destiny games
-- Cross-game events and recognition
-
-**Pros:**
-- Doesn't abandon Destiny identity completely
-- Manageable scope
-- Clear focus
-
-**Cons:**
-- Might not be enough evolution
-- Still ties success to Destiny's fate
-- Limits game choices
-
----
-
-#### **Model 2: True Multi-Gaming (Bold Transformation)**
-
-**Structure:**
-- SGC becomes game-agnostic community
-- Destiny is one of many supported games
-- Activity = time with SGC members (any game)
-- Game-specific divisions/sub-communities
-- Unified Discord with game channels
-
-**Pros:**
-- Future-proof
-- Members can play what they enjoy
-- Survives any single game's decline
-- Attracts broader audience
-
-**Cons:**
-- Bigger organizational challenge
-- Loss of focused identity (initially)
-- More complex to manage
-
----
-
-#### **Model 3: Hybrid Approach (Balanced Transition)**
-
-**Structure:**
-- Destiny clans remain for those who want them
-- Multi-gaming division created alongside
-- Members can choose: Destiny clan + multi-gaming, or multi-gaming only
-- Shared events, separate activity tracks
-
-**Pros:**
-- Accommodates both preferences
-- Allows gradual transition
-- Destiny-focused members aren't forced
-- Natural evolution over time
-
-**Cons:**
-- Creates two-tier system
-- Might still feel divided
-- More admin overhead initially
-
-</div>
-
----
-
-## Activity Requirements: The Core Issue
+## Activity Requirements: A Core Issue
 
 <div class="card" markdown="1">
 
@@ -309,64 +224,10 @@ If destiny succeeds and revives itself which god I'm hoping it does. Id still lo
 I like having some of the community games be on other games, but to play those I have to also play all the time on destiny to stay in the clan. Just makes it hard to enjoy other games.
 </div>
 
-**The Problem:** 
-- Activity requirements are Destiny-specific
-- SGC hosts multi-gaming events
-- Members must choose: play what they enjoy OR maintain clan standing
+**The Problem seen through the eyes of the community:** 
+- Activity requirements are currently Destiny-specific
+- Members must choose: play what they enjoy and risk being removed for inactivity OR maintain clan standing
 - Creates resentment and burnout
-
----
-
-### Proposed Solutions
-
-#### **Solution 1: Unified Activity Metric**
-
-<div class="quote-box" markdown="1">
-I wish that there was a way for us to track/count time spent in games if we are spending time with a member of the SGC... A way for us to enjoy our times together and have it all count towards our activity.
-</div>
-
-**Implementation:**
-- Activity = time spent gaming with SGC members
-- Game doesn't matter, community does
-- Voice channel presence = activity
-- Participation in any SGC event = activity
-
-**Benefits:**
-- Aligns policy with values (community > game)
-- Removes artificial barriers
-- Encourages cross-clan/cross-game play
-
----
-
-#### **Solution 2: Game-Agnostic Clans**
-
-**Implementation:**
-- Clans aren't Destiny-specific
-- Membership based on community participation
-- Sub-groups form around specific games
-- Flexibility to play multiple titles
-
-**Benefits:**
-- Future-proof structure
-- Members don't lose clan home when switching games
-- Natural evolution as games rise/fall
-
----
-
-#### **Solution 3: Dual-Track System**
-
-**Implementation:**
-- Destiny track: traditional Destiny activity requirements
-- Multi-gaming track: any-game activity counts
-- Members choose their track
-- Equal standing in community
-
-**Benefits:**
-- Respects both preferences
-- Clear opt-in/opt-out
-- Doesn't force anyone to change
-
-</div>
 
 ---
 
@@ -414,31 +275,30 @@ It doesn't help we are forced to play destiny 2 which is utterly and completely 
 
 ### The Grim Reality
 
-**Pattern:** Members describe Destiny 2 as:
+**Members describe Destiny 2 as:** 
 - Dead or dying
-- Untrustworthy (Bungie)
-- Unenjoyable
+- Untrustworthy (Bungie and lack of their communication)
+- Unenjoyable (Very grindy at times, Game has become stale)
 - Only playing because of SGC requirement
 
-**Implication:** If SGC's survival depends on Destiny 2's recovery, SGC is betting on a losing horse.
-
-**Members are here for SGC, NOT Destiny.** The game is the obstacle, not the glue.
+**Members are here for SGC, NOT Destiny.** 
+The game is currently obstacle, not the glue.
 
 </div>
 
 ---
 
-## Games Members Are Actually Playing
+## Games Members Are Playing Right Now (as of Survey Answer)
 
 <div class="card" markdown="1">
 
-### Mentioned Games (From Survey)
+### Mentioned Games
 
-- **Battlefield (BF)**
-- **The First Descendant (TFD)**
+- **Battlefield 6 (BF)**
+- **The First Descendant**
 - **Warframe**
 - **Fall Guys**
-- **Marathon** (anticipated)
+- **Marathon (via Playtests)** 
 - **Various others**
 
 <div class="quote-box" markdown="1">
@@ -449,8 +309,7 @@ The game is dead in my opinion. Myself and several others do link up and play BF
 More party nights like maybe a fall guys or destiny gambit night would be fun.
 </div>
 
-**Pattern:** Members are already diversifying. The question isn't "should we?" but "will we officially recognize and support what's already happening?"
-
+**Members are already diversifying.** 
 </div>
 
 ---
@@ -462,14 +321,11 @@ More party nights like maybe a fall guys or destiny gambit night would be fun.
 ### How Urgent Is This?
 
 <div class="alert alert-critical">
-<strong>EXTREMELY URGENT</strong> - Members are leaving or staying unhappily
+Members are unhappy, some even are thinking of leaving or have left already due to Destiny/Community stagnation.
+If they are staying, they are doing so unhappily and sticking due to friendships/relationships.
 </div>
 
-**Evidence of Urgency:**
-
-<div class="quote-box" markdown="1">
-The entire focus of SGC being 'Greeners streaming server' is just not gonna work, with destiny dying... the only 2 options there are right now is to either adapt or die with it.
-</div>
+**Evidence:**
 
 <div class="quote-box" markdown="1">
 I don't want SGC to die off with destiny.
@@ -480,24 +336,23 @@ SGC needs to embrace being a community of people playing different games and wor
 </div>
 
 **Assessment:**
-- Members see this as **existential**
-- Not a "nice to have" - a **survival requirement**
+- Members see this as existential
+- Not a "nice to have" - a survival requirement
 - Delay = attrition
 - Window of opportunity is closing
 
-**Members are patient, but not infinite.** They're asking now. If SGC doesn't respond, they'll find communities that do.
+**Members are patient, but not infinite.** 
+They're asking for change as soon as possible.
 
 </div>
 
 ---
 
-## What Success Looks Like
+## What Respondents Think Could Help
 
 <div class="card" markdown="1">
 
-### Vision for Multi-Gaming SGC
-
-**From Members' Perspective:**
+### Ideas from the Members' Perspective:
 
 1. **Can play any game with SGC friends and it "counts"**
    - No forced Destiny grinding
@@ -517,7 +372,7 @@ SGC needs to embrace being a community of people playing different games and wor
    - Community > game
 
 4. **Events reflect what members play**
-   - Multi-gaming POTW/POTM recognition
+   - Multi-gaming recognition via Game News and Announcements
    - Events in popular games
    - Destiny still included but not exclusive
 
@@ -537,138 +392,6 @@ SGC needs to embrace being a community of people playing different games and wor
    - But not dependent on it
 
 </div>
-
----
-
-## Risks of NOT Evolving
-
-<div class="card" markdown="1">
-
-### What Happens If SGC Stays Destiny-Only?
-
-**Predicted Outcomes:**
-
-#### **1. Slow Death Through Attrition**
-
-- Members leave for multi-gaming communities
-- Recruitment becomes impossible (who joins a dying-game community?)
-- Remaining members increasingly unhappy
-- Critical mass lost, community collapses
-
-#### **2. Forced Evolution Under Crisis**
-
-- Wait until things are dire
-- React from weakness rather than strength
-- Lose leadership and momentum
-- Harder to execute transition
-
-#### **3. Split and Fracture**
-
-- Members form unofficial multi-gaming groups outside SGC
-- Community fragments anyway, but SGC leadership loses control
-- Parallel communities emerge
-- SGC becomes irrelevant
-
-#### **4. Sunk Cost Fallacy Victory**
-
-- Keep "staying the course" because of past investment
-- Roster dwindles but leadership refuses to pivot
-- Eventually forced to close or merge
-- Waste of years of community building
-
-<div class="quote-box" markdown="1">
-The entire focus of SGC being 'Greeners streaming server' is just not gonna work, with destiny dying... the only 2 options there are right now is to either adapt or die with it.
-</div>
-
-**Members have diagnosed this correctly: Adapt or die.**
-
-</div>
-
----
-
-## Risks of Evolving
-
-<div class="card" markdown="1">
-
-### What Could Go Wrong With Multi-Gaming?
-
-**Honest Assessment:**
-
-#### **1. Identity Crisis (Short-Term)**
-
-- Temporary confusion about "what we are"
-- Some Destiny purists might leave
-- Rebuilding brand as multi-gaming
-
-**Mitigation:** Clear messaging, strong leadership, embrace the transition boldly
-
----
-
-#### **2. Organizational Complexity**
-
-- More games = more to manage
-- Need broader leadership skillset
-- Discord organization more complex
-
-**Mitigation:** Delegate game-specific management, don't try to control everything centrally
-
----
-
-#### **3. Fragmentation Risk**
-
-- Members spread across many games
-- Harder to have "everyone together" moments
-- Potential loss of cohesion
-
-**Mitigation:** Cross-game events, unified Discord, shared identity beyond any game
-
----
-
-#### **4. Destiny Die-Hards Leave**
-
-- Small minority who want Destiny-only might depart
-- Loss of some veteran members
-- Short-term morale impact
-
-**Mitigation:** 
-- Offer them continued Destiny support
-- Hybrid model accommodates them
-- **But 75% want evolution - can't let 15% veto**
-
----
-
-### Risk Comparison
-
-**Risk of Staying Destiny-Only: Community dies**
-
-**Risk of Evolving: Some growing pains, but community survives and thrives**
-
-**The choice is clear.**
-
-</div>
-
----
-
-## Critical Decision Point
-
-<div class="alert alert-critical">
-
-### The Choice Before SGC Leadership
-
-**Option A: Evolve to Multi-Gaming**
-- Supported by 75% of community
-- Future-proof structure
-- Preserves friendships and community
-- Aligns with member behavior
-- Growth potential
-- **Community survives and thrives**
-
-**Option B: Stay Destiny-Focused**
-- Supported by 15% of community
-- Simpler in short-term
-- Maintains historical identity
-- Hopes for Destiny's recovery
-- **Community slowly dies**
 
 ---
 
@@ -696,32 +419,12 @@ Members gave their feedback because they believe it matters.
 
 ### What This Survey Revealed
 
-1. **75% want multi-gaming** - Clear mandate
-2. **Members staying for community, not game** - Core insight
-3. **Already playing other games together** - Reality check
-4. **Activity requirements are the barrier** - Specific problem
-5. **Urgency is high** - Timeline is now
-6. **Hope exists** - Members want SGC to succeed
-
----
-
-### The Path Forward
-
-<div class="quote-box" markdown="1">
-I don't want SGC to die off with destiny, I want to keep my close friends from here.
-</div>
-
-This quote encapsulates everything.
-
-Members care about SGC. They've formed genuine friendships. They want the community to survive.
-
-**Multi-gaming isn't about abandoning Destiny. It's about saving SGC.**
-
-The Destiny 2 that brought everyone together doesn't exist anymore. But the friendships do.
-
-**Evolve to preserve what matters. The game was never the point - the people were.**
-
-</div>
+1. **75% want multi-gaming**
+2. **Members staying for community, not game**
+3. **Already playing other games together**
+4. **Activity requirements are the barrier**
+5. **Urgency is high**
+6. **Hope exists**
 
 ---
 
