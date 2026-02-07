@@ -8,9 +8,10 @@ Once again, anonymity is your right. We do not want you to feel forced, obligate
 And in such a case, it may be best for you to leave a way of contacting you (SGC Name, Discord Handle, Email, Signal, etc...)
 </div>
 
-## Search and Filter
+
 
 <div class="filter-section">
-  
   <a href="https://forms.gle/MqCDfWtGFqVwK2VP8" class="btn"> 📬 Provide Feedback 📨 </a>
 </div>
+
+## Thank you!
