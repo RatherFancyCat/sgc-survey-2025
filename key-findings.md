@@ -205,7 +205,7 @@ Immediate support for multi-gaming structures within clans and shifting towards 
 
 **✅ Community Investment**
 
-- 128 responses to 70+ question survey
+- 104 responses to 70+ question survey
 - Detailed, thoughtful feedback
 - Members care deeply about SGC's future
 
