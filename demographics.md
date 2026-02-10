@@ -8,7 +8,7 @@ Understanding who participated in the survey helps contextualize the feedback an
 
 <div class="stat-grid">
   <div class="stat-card">
-    <span class="stat-number">128</span>
+    <span class="stat-number">104</span>
     <span class="stat-label">Total Responses</span>
   </div>
   <div class="stat-card">
@@ -293,7 +293,7 @@ This dataset provides a **robust and diverse perspective** on SGC's community he
 
 1. **This is not a "new member" survey** - Dominated by veterans who know SGC well
 2. **Clan loyalty varies widely** - Nearly half have switched clans, often due to closures
-3. **Engagement is high** - 128 responses for a detailed 70+ question survey shows investment
+3. **Engagement is high** - 104 responses for a detailed 70+ question survey shows investment
 4. **Anonymity enabled honesty** - Critical feedback came from both named and anonymous respondents
 5. **Cross-clan perspective** - Members who've been in multiple clans provide comparative insights
 
