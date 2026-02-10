@@ -61,7 +61,7 @@ Your clan staff will be looped in on plans of actions and Division Leaders will 
 I, Rather Fancy Cat, want to personally thank each person who filled out the Survey back in October, but I also want to apologize to everyone.
 This took a long time to be released as I stated to the public.
 
-<br>
+<br><br>
 
 A Very Special thanks to Xiamara, whose help, effort, writting skills and persistence were fundamental to the successful completion of the data handling you will be seeing in this platform.
 
