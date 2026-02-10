@@ -7,7 +7,7 @@ In October 2025, the SGC community was invited to participate in a comprehensive
 SGC stands at a critical crossroads with questions about structure, leadership, events, and Destiny 2's role.
 
 ## The Response
-A total of **128 members** completed the 70+ question survey.
+A total of **104 members** completed the 70+ question survey.
 
 ## Survey Scope
 The survey covered demographics, atmosphere, leadership, events, future direction, and open feedback.
@@ -17,7 +17,7 @@ The survey covered demographics, atmosphere, leadership, events, future directio
 Privacy and anonymity were key. 
 
 ## Survey Overview Stat Cards
-- **Total Responses:** 128
+- **Total Responses:** 104
 - **Clans Represented:** 20+
 - **Questions Asked:** 70+
 - **Anonymous Responses:** 60%
