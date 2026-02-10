@@ -432,7 +432,7 @@ Members gave their feedback because they believe it matters.
 
 ### Hope for the Future
 
-128 people took a 70+ question survey.
+104 people took a 70+ question survey.
 
 They provided detailed, thoughtful, passionate feedback.
 
