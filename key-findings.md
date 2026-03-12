@@ -19,13 +19,14 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 ## ⚠️ Critical Issues Identified
 
+<div class="alert alert-warning">
+<strong>HIGH PRIORITY:</strong> Destiny 2's declining state threatens SGC's foundation. Members are staying for the community, not the game.
+</div>
+
 <div class="alert alert-critical" markdown="1">
 <strong>URGENT:</strong> Multiple leadership concerns raised, particularly regarding favoritism, accountability, and specific admin behavior patterns.
 </div>
 
-<div class="alert alert-warning">
-<strong>HIGH PRIORITY:</strong> Destiny 2's declining state threatens SGC's foundation. Members are staying for the community, not the game.
-</div>
 
 ## 📊 Atmosphere Ratings
 
@@ -147,15 +148,15 @@ Immediate support for multi-gaming structures within clans and shifting towards 
 
 </div>
 
-<div class="alert alert-critical" markdown="1">
+<div class="alert alert-warning" markdown="1">
 
-### 3. Moderation Crisis: NSFW Content Failure
+### 3. Accountability Gap: Double Standards
 
-**Finding:** Failure in moderation in certain clans resulting in hypersexualized chats that make members uncomfortable to the point where they either block people or consider leaving.
+**Finding:** Members believe that Staff Members can bypass or break rules without any repercussion, whilst actively enforcing rules on Members.
 
-**Why It Matters:** Rules not enforced, members driven away from clan channels. Staff seeming to support and take part in rule violations. Unfair preferential treatment.
+**Why It Matters:** This creates an environment of distrust between Members and Staff, ensures that our goal of "Communication is Key" does not get met, and creates a cycle of fighting to get a Staff position to do unto others what has been done to me.
 
-**Potential Readjustment:** Staff should examine their clan environments and address issues immediately. Make it clear to members that clan chats and VCs should be a cozy space for ALL members. Enforcing SGC rules help maintain that space. Division Leaders to check in with Admins regarding this. 
+**Potential Readjustment:** Establish set core of checks and balances // rules and directives, for Staff Members, including a system of Warnings, Demotion or Removal of Staff Positions. Visible by the community, and reportable by members and peers.
 
 </div>
 
@@ -171,15 +172,15 @@ Immediate support for multi-gaming structures within clans and shifting towards 
 
 </div>
 
-<div class="alert alert-warning" markdown="1">
+<div class="alert alert-critical" markdown="1">
 
-### 5. Accountability Gap: Double Standards
+### 5. Moderation Crisis: NSFW Content Failure
 
-**Finding:** Members believe that Staff Members can bypass or break rules without any repercussion, whilst actively enforcing rules on Members.
+**Finding:** Failure in moderation in certain clans resulting in hypersexualized chats that make members uncomfortable to the point where they either block people or consider leaving.
 
-**Why It Matters:** This creates an environment of distrust between Members and Staff, ensures that our goal of "Communication is Key" does not get met, and creates a cycle of fighting to get a Staff position to do unto others what has been done to me.
+**Why It Matters:** Rules not enforced, members driven away from clan channels. Staff seeming to support and take part in rule violations. Unfair preferential treatment.
 
-**Potential Readjustment:** Establish set core of checks and balances // rules and directives, for Staff Members, including a system of Warnings, Demotion or Removal of Staff Positions. Visible by the community, and reportable by members and peers.
+**Potential Readjustment:** Staff should examine their clan environments and address issues immediately. Make it clear to members that clan chats and VCs should be a cozy space for ALL members. Enforcing SGC rules help maintain that space. Division Leaders to check in with Admins regarding this. 
 
 </div>
 
