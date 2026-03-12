@@ -131,7 +131,7 @@ The SGC community shows **strong in-clan bonds** with most members rating their 
 
 **Why It Matters:** Destiny 2 is declining. Members are already playing other games together but activity requirements force Destiny grinding. This creates and has created already some resentment and is causing attrition.
 
-**Potential Readjustment:** Immediate policy reform to recognize multi-gaming activity and prevent community dissolution. Immediate policy reform to recognize multi-gaming activity and prevent community dissolution.
+**Potential Readjustment:** Immediate policy reform to recognize multi-gaming activity and prevent community dissolution.
 Immediate support for multi-gaming structures within clans and shifting towards more multi-gaming oriented community events.
 
 </div>
