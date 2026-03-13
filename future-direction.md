@@ -451,4 +451,4 @@ Adapt. Evolve. Become the multi-gaming community members are begging for.
 ---
 
 
-<a href="path-forward" class="btn btn-secondary">Path Forward</a>
+<a href="path-forward" class="btn">Path Forward</a>
