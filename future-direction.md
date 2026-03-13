@@ -450,5 +450,5 @@ Adapt. Evolve. Become the multi-gaming community members are begging for.
 
 ---
 
-<a href="index" class="btn">Return to Overview</a>
-<a href="detailed-feedback" class="btn btn-secondary">Read All Feedback</a>
+
+<a href="path-forward" class="btn btn-secondary">Path Forward</a>
