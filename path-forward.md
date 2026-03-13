@@ -10,7 +10,6 @@ In this portion, we will discuss the agreed upon choices made by our Staff in re
 
 ## Controlled Multi-Game Expansion
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 One of the topics that came out of the leadership discussion was how the SGC approaches games outside of Destiny.
 
@@ -20,11 +19,9 @@ That said, we also recognize that people enjoy playing other games, especially d
 
 The goal is simple: give members more things to do with SGC friends without losing the core identity of the community.
 </div>
-</div>
 
 ## Multi-Game Support Structure
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 To support this, we will continue maintaining multi-game areas within the Discord and expand them when appropriate.
 
@@ -37,12 +34,10 @@ This includes things like:
 
 These areas will exist to give members additional ways to play together without affecting the Destiny clan structure.
 </div>
-</div>
 
 
 ## Rotating Game Support
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 We will periodically review which non-Destiny games the community is actively playing.
 
@@ -50,11 +45,9 @@ If certain game sections become inactive, they may be rotated out and replaced w
 
 This review will likely happen on a quarterly basis, though adjustments may happen sooner if activity shifts quickly.
 </div>
-</div>
 
 ## How We Will Track Activity
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 To determine which games are worth supporting, we will use several sources of information.
@@ -70,12 +63,10 @@ Finally, we may run community polls inside Discord asking members which games th
 Between these three sources, we should have a good understanding of where the community's interests are.
 
 </div>
-</div>
 
 
 ## Bounties and Community Player of the Week Support
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 One area we are currently exploring is expanding Community Player of the Week support into multi-game activities.
@@ -89,12 +80,10 @@ This would allow members to contribute toward Community Player of the Week witho
 This is something we are actively working on and we are excited about the potential it brings.
 
 </div>
-</div>
 
 
 ## Event Support for Community Leaders
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 Another major addition is a new system that allows clan staff and community leaders to run their own events.
 
@@ -115,12 +104,10 @@ We have also created a reward matrix that helps determine what kinds of rewards 
 This system is designed to empower leaders to create more activities across the community without needing everything to come directly from the top.
 
 </div>
-</div>
 
 
 ## Community Events Outside of Destiny
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 In addition to supporting events from leaders, the SGC will occasionally run community-wide events outside of Destiny.
@@ -130,11 +117,9 @@ We have done this in the past and will continue doing it from time to time.
 These events are meant to give the community something different to rally around and provide additional ways for members to spend time together.
 
 </div>
-</div>
 
 ## Cross-Clan Culture
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 One of the strengths of the SGC has always been our clan identities. Each clan has its own personality, culture, and group of players that regularly spend time together. That identity is something we value and will not be removing or restructuring.
@@ -148,12 +133,10 @@ Because of that, we have decided that Clan Wars will not be returning in its pre
 Instead, we will be focusing more on cooperative or mixed-group activities that allow players from different clans to participate together.
 
 </div>
-</div>
 
 
 ## Cooperative Events
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 Moving forward, we want to emphasize events that encourage players to interact across clan lines.
@@ -169,12 +152,10 @@ A current example of this type of event is Zero to Hero, which has been extremel
 We will continue exploring and developing events with this type of structure moving forward.
 
 </div>
-</div>
 
 
 ## Cross-Clan Event Participation
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 Another step we are taking is encouraging events that allow participation from multiple clans.
@@ -184,12 +165,10 @@ As mentioned in other sections, we are introducing a system that allows clan sta
 The goal is to create more opportunities for players to interact and build relationships outside of their immediate clan group.
 
 </div>
-</div>
 
 
 ## Public Clan Voice Channels
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 We are also encouraging clans to consider creating at least one public-facing voice chat channel.
 
@@ -199,12 +178,10 @@ This is completely optional and will be up to each clan’s leadership to decide
 
 However, we believe it can be a simple way to encourage more casual cross-clan interaction without forcing any structural changes to the community.
 </div>
-</div>
 
 
 ## Community Player of the Week Adjustments
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 We are also making adjustments to Community Player of the Week scoring to encourage playing with members from other clans.
@@ -212,11 +189,9 @@ We are also making adjustments to Community Player of the Week scoring to encour
 The goal is to reward activity that helps strengthen the overall community rather than only rewarding activity within a single clan group.
 
 </div>
-</div>
 
 ## Leadership Standards & Community Moderation
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 Another topic that came out of the community survey and our leadership discussions was how moderation and leadership interaction happens inside the community.
@@ -233,7 +208,6 @@ Our goal moving forward is simple: allow clan leadership to moderate their own s
 
 ## Moderation Flow
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 For issues happening inside clan channels:
@@ -250,12 +224,10 @@ For issues happening in public channels:
 Whenever possible, leadership will follow this structure before stepping in directly.
 
 </div>
-</div>
 
 
 ## Reverse Escalation
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 Another important change is how we handle situations when someone goes directly to higher leadership first.
@@ -267,12 +239,10 @@ The goal is to respect the leadership structure that already exists within each 
 There may still be rare cases where immediate action is required. In those situations leadership may step in quickly and address the situation first, then follow up afterward. These cases should be the exception rather than the norm.
 
 </div>
-</div>
 
 
 ## Public Callouts
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 Another area we are actively improving is how issues are addressed publicly.
@@ -285,12 +255,10 @@ If something begins escalating in a public conversation, the goal will be to mov
 
 This is something leadership will continue working on, and we encourage clan staff to follow the same approach.
 </div>
-</div>
 
 
 ## Moderator Team Expansion
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 Another improvement coming from these discussions is expanding the moderation team.
@@ -308,12 +276,10 @@ Moderators may step into clan chats if clan staff are unavailable, but they are 
 The goal is to support clan leadership, not replace it.
 
 </div>
-</div>
 
 
 ## Pinging Leadership
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 Another issue that occasionally pulls leadership into situations too quickly is mass pinging.
 
@@ -323,12 +289,10 @@ Clan-related concerns should go to clan staff first.
 
 Following this structure will help prevent situations where leadership is pulled into issues before the appropriate people have had a chance to address them.
 </div>
-</div>
 
 
 ## Favoritism and Perception
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 
 This is something we take seriously, and it is also something we want to address honestly.
@@ -359,12 +323,10 @@ This change was implemented specifically to create a more balanced and transpare
 We recognize that favoritism perception is not limited to one area of the community, but expanding the Ban Council was an important step in addressing it where it matters most. Leadership will continue looking for ways to reduce both the reality and the perception of favoritism across other areas of the community as well.
 
 </div>
-</div>
 
 
 ## Conflict of Interest
 
-<div class="card" markdown="1">
 <div class="alert alert-warning" markdown="1">
 Finally, one leadership guideline we are reinforcing is stepping back when personally involved in a situation.
 
@@ -373,11 +335,9 @@ If a staff member is emotionally involved in a dispute or directly connected to 
 This helps ensure fairness and reduces the perception of bias in moderation decisions.
 
 </div>
-</div>
 
 ## Final Summary
 
-<div class="card" markdown="1">
 <div class="alert alert-success" markdown="1">
 
 Destiny will remain the foundation and core identity of the SGC. Our clans, community culture, and history are built around Destiny, and that is not changing.
@@ -394,7 +354,6 @@ Finally, we are continuing to refine how leadership and moderation operate withi
 Many of these adjustments have already been improving how situations are handled over the past several months. We will continue refining these systems as the community grows.
 The overall goal of these changes is simple: preserve what makes the SGC strong while creating more opportunities for members to stay active, connected, and engaged across the entire community.
 
-</div>
 </div>
 
 <a href="index" class="btn">Return to Overview</a>
