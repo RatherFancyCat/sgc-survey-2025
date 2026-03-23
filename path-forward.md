@@ -336,6 +336,79 @@ This helps ensure fairness and reduces the perception of bias in moderation deci
 
 </div>
 
+## Additional Updates & Community Improvements
+
+<div class="card" markdown="1">
+<div class="alert alert-warning" markdown="1">
+
+This section covers a few additional updates and areas of focus that came out of our discussions which do not fall under a single category, but are still important to the overall direction of the SGC.
+
+</div>
+</div>
+
+
+## Community Player of the Week (CPOTW) Expansion
+
+<div class="card" markdown="1">
+<div class="alert alert-warning" markdown="1">
+
+We are making several updates to Community Player of the Week to better support overall community activity.
+
+These changes are designed to reward participation across multiple areas of the SGC, not just within a single type of activity.
+
+Updates include:
+
+• Introducing CPOTW points for community events using a structured matrix  
+• Adding CPOTW points to bounties, including those outside of Destiny  
+• Increasing CPOTW rewards for playing with members from other clans  
+• Increasing CPOTW rewards for full clan fireteam activities and clan nights  
+
+The goal is to encourage both:
+
+• Strong clan engagement  
+• Cross-clan interaction across the broader community  
+
+These are not meant to compete with each other, but instead give players multiple ways to contribute depending on how they prefer to play.
+
+</div>
+</div>
+
+
+## Discord Activity & Recognition
+
+<div class="card" markdown="1">
+<div class="alert alert-warning" markdown="1">
+
+Another area we are placing more focus on is Discord activity.
+
+Currently, most recognition happens through the stream or blog, which not everyone sees. We want to improve how recognition is handled directly within Discord so it is more visible to the community.
+
+There is no finalized system in place yet, but this is an active area we are working on.
+
+The goal is to better recognize members who are active within the community, regardless of what game they are playing.
+
+</div>
+</div>
+
+
+## Moderation Awareness
+
+<div class="card" markdown="1">
+<div class="alert alert-warning" markdown="1">
+
+While moderation was discussed, we do not view this as a widespread issue across the community.
+
+Each clan has its own atmosphere and culture, and that is something we want to preserve.
+
+That said, we do want to reinforce the importance of awareness when conversations begin to go too far.
+
+Staff should be mindful of situations where things may become overly aggressive, inappropriate, or uncomfortable for others, and step in when necessary to keep things under control.
+
+This is not about changing how clans operate, but about maintaining a baseline level of respect across the community.
+
+</div>
+</div>
+
 ## Final Summary
 
 <div class="alert alert-success" markdown="1">
